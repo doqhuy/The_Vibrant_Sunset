@@ -1,0 +1,1490 @@
+fileFormatVersion: 2
+guid: 5fad6eb15ed9fe14c8c5d7239077bda9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 369
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c55d49c65be444eaeec79f8032cdc9
+      internalID: -1118707822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 369
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf5ee567a540714d8469a5c5e6e0c00
+      internalID: 1614453860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 369
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f31dac14f76a045a760649aa3f949a
+      internalID: 1299726092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 369
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d912d9a1ba334fab7f261a108d1c1
+      internalID: -2132136210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 369
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020d66239b65ad4eb86c0b8897bbac5
+      internalID: -1614920826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 369
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b382ce923069e418d1e9bf4d9ba8e5
+      internalID: -1066262162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 369
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01eb005e92c92245a5340f8bd93cd13
+      internalID: -308383122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 369
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f89b12b802bd794ba78938fbce3d807
+      internalID: -1181910275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 369
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ddcc22444cd343834fafb72151e14
+      internalID: -1852500094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 369
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64af7f24d0d570439fff87b1c4c9011
+      internalID: 277332254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_12
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 369
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc4ac7175a69da4a9d6b657696639ad
+      internalID: -558196746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 369
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d173d48b0cdcc4fb03d2eecc797d15
+      internalID: -1462231368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 369
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a0b3fb27ac9c4d8fcdf221b0b012b
+      internalID: -1546215110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 369
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dda618661e95347bc682e20e8b3fba
+      internalID: -1629450507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_16
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 369
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bfaaf80d22d4c41867c9ccbd551d05
+      internalID: 1781352305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_17
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 369
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783e847f9837714aa3d7b51a3513477
+      internalID: -1748565437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 334
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e05bb1a39880143b4017d5786c1e3a
+      internalID: -763055653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 334
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea544ed2bd50a4aa4bc138f1b4f069
+      internalID: 901804942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e319145e0aace43b8f70440cc033c5
+      internalID: 532189249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404413b2b6bd4f14ab6694c5ee0a88fd
+      internalID: -460458053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da559654f56a45047b6046e3bfbb86a3
+      internalID: 1357314798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4f0210ee52cf843a290c919257761e
+      internalID: 2136579712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250e177c8c8053049b82cb9c03564239
+      internalID: 103382615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9529e0a8625a940982836f9981b5de
+      internalID: 1081522069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b61aec350103a4887b99ae2ba68e75
+      internalID: 974226576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dd1ff8159f64d4d92c4726906ac5d3
+      internalID: -1113949364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_28
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0cf1adadd2f245b66af6985040ce3
+      internalID: -583951659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_29
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c1d3b60c76a2846975e65cef9f9d99
+      internalID: -1377601078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_30
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1aafaa965c8774d92312e9be042e73
+      internalID: -1217842268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2484131fb7a6bf04fb192063f83e1608
+      internalID: -458611739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_32
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 334
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec5b273eae929a438dc5937dcccaf75
+      internalID: -1108226733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_33
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 334
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707d59b181fa1af47934124efc5e6046
+      internalID: -767033601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 284
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b56e881f4e044789403e7ca32e7d9
+      internalID: -1767520272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 284
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc3b1b58e96e854191e5dc1d2959433
+      internalID: -327076143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 284
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964a0dd7ba0da147a2b1d8d0d7a96b0
+      internalID: -496021700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 284
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a0c22db845d64a9056dae15676325
+      internalID: -527163136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 284
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff979eaa57d8dc47948fabfd0d0fb85
+      internalID: 1301134871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 284
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ea62afc421cf4fbdb31734acef074
+      internalID: -7486736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e081b709e4afd1c459664bf05696d269
+      internalID: -1309756340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 219
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4054ae74e1003d043804cabf0ee5b246
+      internalID: -645661875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 219
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87188ff77d8b9e44bfd87e61f86895c
+      internalID: -1221900204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 219
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406276d3559a68443a75b2310d018d57
+      internalID: -1282349146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 219
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7527e6b7cc9efa4abe5772ec5026a84
+      internalID: -1517470246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 219
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f962f90bd71c42a74806e382c7b05
+      internalID: 188394383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 162
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd8bb3a0ea6c4b4999941c80af47168
+      internalID: 241837293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_57
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 162
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9984bdee299fa4c838c69e6a7718dc
+      internalID: -1234419824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 162
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc56c1397f4e9744e9a7fbbce0fb4276
+      internalID: -1460522308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_59
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 162
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd94c757b7853c14a81e90a16e5ee814
+      internalID: 1381823478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_60
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 162
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d0e448c295e4b48b0d0a49daebab46
+      internalID: -1156193167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_61
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 162
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd16f142c21c843b5be4af75766216
+      internalID: 221750795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 162
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961574a70b020949bf299392339380b
+      internalID: 478942749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcff74657d3d0094191820870c1e72b4
+      internalID: -1491425269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9d749c12cb65b46a0e95b8b7d62e11
+      internalID: -1153157882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_87
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88f8abb0e5e5944c9671bb2a83f56cc
+      internalID: -2048860208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_88
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baab61589df80e047aa8692a15aa47d7
+      internalID: -2048158252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_89
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612ea104e1bfd843b6bce720dda7acb
+      internalID: 2010381862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_90
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a18efcb75d2204d8e1fafb8afd3e2f
+      internalID: 1991762767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_91
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ef00d7eb570f4787950ad62bd04e4
+      internalID: -1176083929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cd03b2dcecb3a44a13aaea95f9e570
+      internalID: 877005763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_93
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25eac9e10f64714ab4647a0e56128a0
+      internalID: 1949706435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_Attacker_Club_94
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fea9ae4a6ebd04e8ca81502708e9c5
+      internalID: 756712550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Goblin_Attacker_Club_0: -1295586688
+      Goblin_Attacker_Club_1: -863950945
+      Goblin_Attacker_Club_10: -1852500094
+      Goblin_Attacker_Club_11: 277332254
+      Goblin_Attacker_Club_12: -558196746
+      Goblin_Attacker_Club_13: -1462231368
+      Goblin_Attacker_Club_14: -1546215110
+      Goblin_Attacker_Club_15: -1629450507
+      Goblin_Attacker_Club_16: 1781352305
+      Goblin_Attacker_Club_17: -1748565437
+      Goblin_Attacker_Club_18: -763055653
+      Goblin_Attacker_Club_19: 901804942
+      Goblin_Attacker_Club_2: -1118707822
+      Goblin_Attacker_Club_20: 532189249
+      Goblin_Attacker_Club_21: -460458053
+      Goblin_Attacker_Club_22: 1357314798
+      Goblin_Attacker_Club_23: 2136579712
+      Goblin_Attacker_Club_24: 103382615
+      Goblin_Attacker_Club_25: 1081522069
+      Goblin_Attacker_Club_26: 974226576
+      Goblin_Attacker_Club_27: -1113949364
+      Goblin_Attacker_Club_28: -583951659
+      Goblin_Attacker_Club_29: -1377601078
+      Goblin_Attacker_Club_3: 1614453860
+      Goblin_Attacker_Club_30: -1217842268
+      Goblin_Attacker_Club_31: -458611739
+      Goblin_Attacker_Club_32: -1108226733
+      Goblin_Attacker_Club_33: -767033601
+      Goblin_Attacker_Club_34: -1384250184
+      Goblin_Attacker_Club_35: -1658411397
+      Goblin_Attacker_Club_36: 526332976
+      Goblin_Attacker_Club_37: -1767520272
+      Goblin_Attacker_Club_38: -327076143
+      Goblin_Attacker_Club_39: -496021700
+      Goblin_Attacker_Club_4: 1299726092
+      Goblin_Attacker_Club_40: -527163136
+      Goblin_Attacker_Club_41: 1301134871
+      Goblin_Attacker_Club_42: -7486736
+      Goblin_Attacker_Club_43: -1696123936
+      Goblin_Attacker_Club_44: 131337903
+      Goblin_Attacker_Club_45: -1544745246
+      Goblin_Attacker_Club_46: -1309756340
+      Goblin_Attacker_Club_47: -645661875
+      Goblin_Attacker_Club_48: -1221900204
+      Goblin_Attacker_Club_49: -1282349146
+      Goblin_Attacker_Club_5: -2132136210
+      Goblin_Attacker_Club_50: -1517470246
+      Goblin_Attacker_Club_51: 188394383
+      Goblin_Attacker_Club_52: 1200107830
+      Goblin_Attacker_Club_53: -1491152017
+      Goblin_Attacker_Club_54: 223930370
+      Goblin_Attacker_Club_55: -2120026236
+      Goblin_Attacker_Club_56: 241837293
+      Goblin_Attacker_Club_57: -1234419824
+      Goblin_Attacker_Club_58: -1460522308
+      Goblin_Attacker_Club_59: 1381823478
+      Goblin_Attacker_Club_6: -1614920826
+      Goblin_Attacker_Club_60: -1156193167
+      Goblin_Attacker_Club_61: 221750795
+      Goblin_Attacker_Club_62: 478942749
+      Goblin_Attacker_Club_63: 649166964
+      Goblin_Attacker_Club_64: -554889277
+      Goblin_Attacker_Club_65: 1968655176
+      Goblin_Attacker_Club_66: 426377264
+      Goblin_Attacker_Club_67: -1031748865
+      Goblin_Attacker_Club_68: -738801312
+      Goblin_Attacker_Club_69: -1391386049
+      Goblin_Attacker_Club_7: -1066262162
+      Goblin_Attacker_Club_70: -22804214
+      Goblin_Attacker_Club_71: -604430357
+      Goblin_Attacker_Club_72: -1491425269
+      Goblin_Attacker_Club_73: -405723781
+      Goblin_Attacker_Club_74: 487913982
+      Goblin_Attacker_Club_75: -1555446850
+      Goblin_Attacker_Club_76: -916903657
+      Goblin_Attacker_Club_77: 879539466
+      Goblin_Attacker_Club_78: -27015468
+      Goblin_Attacker_Club_79: 1914905341
+      Goblin_Attacker_Club_8: -308383122
+      Goblin_Attacker_Club_80: -1398572408
+      Goblin_Attacker_Club_81: 580865558
+      Goblin_Attacker_Club_82: -1153157882
+      Goblin_Attacker_Club_83: 1062726766
+      Goblin_Attacker_Club_84: 1704472906
+      Goblin_Attacker_Club_85: -1823766584
+      Goblin_Attacker_Club_86: 661805172
+      Goblin_Attacker_Club_87: -2048860208
+      Goblin_Attacker_Club_88: -2048158252
+      Goblin_Attacker_Club_89: 2010381862
+      Goblin_Attacker_Club_9: -1181910275
+      Goblin_Attacker_Club_90: 1991762767
+      Goblin_Attacker_Club_91: -1176083929
+      Goblin_Attacker_Club_92: 877005763
+      Goblin_Attacker_Club_93: 1949706435
+      Goblin_Attacker_Club_94: 756712550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

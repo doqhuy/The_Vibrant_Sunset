@@ -1,0 +1,3283 @@
+fileFormatVersion: 2
+guid: 0c9b1c67136015f43ba87198244ed412
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431dc92e28d2dd842a4fb3a114aafe17
+      internalID: -509083235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57208627e51a4540b535a47d9b03359
+      internalID: 468834276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859a73dd91e039b448c0e7a6e7ca17cb
+      internalID: 1173936683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a85932b50bcb742bf6b8eb538c1e93
+      internalID: -122667219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcad3feae1a47b4abf9d8e5f567fa2b
+      internalID: 457576472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e5a34b869a0849aa7bc795fab25ed
+      internalID: 1849714664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7bc896139acd34cb8a367959d3741b
+      internalID: -1149862935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_07
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb82103d1ca0842962759ad4e9fdea
+      internalID: 415819883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_08
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337ad51ae8863c4dac061d77f00699a
+      internalID: 1146914564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_09
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f9aacd99be3c4eb134995e2854c6d
+      internalID: -1880706184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fed6670a7c08844b83d5311862c97e
+      internalID: 1270228029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f29334611b54004185c52e018b5e65a
+      internalID: 295623741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ebd2ecc3821d46935fbb8664cbfc2
+      internalID: 1806820983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d433a05839ad564d936ec9f737f9ae3
+      internalID: 1755469589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b29e9b562f990b438ea83da76f8383b
+      internalID: 695299211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850d3674fdb4cc40925234dc994c854
+      internalID: -847557166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7bd2a9b37086469f74562827c4f1f
+      internalID: -1169258344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1d534df6e3d644395507a7551913c0
+      internalID: 641248342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92fec167afcda847b876dc9d334e104
+      internalID: 2061165477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d565bd3f06cd14dbf0ec44385c09b0
+      internalID: 805281130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2653
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be70184e24d7db459c9a7afe1739fb9
+      internalID: -191231503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc81729856446c345a1b0be46b65810d
+      internalID: -1603039405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bada90a295691e4b860c48c081529fb
+      internalID: 57732043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c5ef93552f5248ba1a385c73c3bc8
+      internalID: -862510293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30e4bca72f471247a98f9a812b72dbe
+      internalID: -1737116087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7637a2ad378cedd49b8c470503e3520c
+      internalID: -1405854995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2da8b814f15dd4cbdb68ae832f3bc5
+      internalID: -335312958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1dc8feb438e2f438cbe78c52106a53
+      internalID: 820063314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826fa2ee29867e444998e27086305a24
+      internalID: 1484515558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5706df7eb4fa4e84dab4084790aced36
+      internalID: 326261082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89994c80180eb7247a2eb7c419511161
+      internalID: 1959639883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc0c0ee58cb4f648b89217ca72afdd8
+      internalID: -1315302111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518919032ffc6724e969ac1b4aa916cc
+      internalID: -249279903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a42cb73d4e6eb94b854e9272d6308fb
+      internalID: 885962020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5171d68f04aa24fab9fde231cae970
+      internalID: 1693745800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73a19351b86d8a49ab96f412692558d
+      internalID: -650639473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34024e1587960b4891e291017ecb46a
+      internalID: 1305615699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759ddb72d0a961a40a4297290e3622db
+      internalID: 2091242838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c73c06bb68e1438a8ddf1141d89c4
+      internalID: 1279287844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3a381719c09d42916a2bdfd53ece5
+      internalID: 1651340743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29fe4a4986616d41841ff4c9e1cc586
+      internalID: 1003472703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb77e982232eb54c9ea1feb3911dd04
+      internalID: -1571575242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb8bbdf5a145c4ba0993eb4098fb1e
+      internalID: -2146473332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85c392979185b4a8ee01d6162b306a
+      internalID: 1063699998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4669697fde3207144ae4f4ee80155251
+      internalID: 277596933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2142c87d6cd2d43b4d69e93b0cf6ed
+      internalID: -1517121222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3741766dcfc933438145039deeb0bf8
+      internalID: -1961872367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7142edf143d70444835067f25edb564
+      internalID: -1051314594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e0eb17c02c86246a667b9bf9165c61
+      internalID: 923026634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf0408faa5f22e478d20ffccc3cf113
+      internalID: -723324492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7593d096594be2c4fa1aec066edf1d72
+      internalID: -1907097773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66470a04c2da48549bbeb71d7d122899
+      internalID: 1943929872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef2600a977b9244899f876607d3081c
+      internalID: -1116730076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed067118060b98d45bce09674d5838c9
+      internalID: -1750300981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f55e101b9c464da1ed0c376c21c4c
+      internalID: -1848866604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2547
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8ffc9eb4b809249a30cbec977fd505
+      internalID: -1394130522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_IdleToRun_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2481
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccad52dca97d4444b3bf27262504e31
+      internalID: 2036293017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_IdleToRun_01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2481
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee7ed6a254a7ed48ad101bf89297291
+      internalID: -810560305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Run_00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2414
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5331cdc1ce6d50041bfa0d33cc1b5960
+      internalID: 1098492836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Run_01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2414
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d103f8c2a983ee49a53ba6e34d819f4
+      internalID: -1816648933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Run_02
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2414
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb2b54c6d7a7345837d3c289dbacb4
+      internalID: -1530350767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Run_03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2414
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852e61d7fa3bc4e41b2091c4b5015775
+      internalID: -1185322423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Run_04
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2414
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9800e5f280b67448eac84e4c7a9882
+      internalID: 1717961474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Run_05
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2414
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64be70e6b32964199ef7218514be8f
+      internalID: -336407088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Run_06
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2414
+        width: 33
+        height: 50
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a29a89f7ab71f248922f47cf6119a7d
+      internalID: 864008102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Run_07
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2414
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32929d10db033c343a9aea2a20bed8f9
+      internalID: -1373314465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_RunToIdle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2347
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81712f07970b6e24a93f00698b9c309a
+      internalID: 1928566867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_RunToIdle_01
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2347
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42f0b31e037e24682a51b129ff7128
+      internalID: -660278179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_RunToIdle_02
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2347
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef78fabd3b137f44b6f6df5c8f1fa59
+      internalID: -1180529858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_RunToIdle_03
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2347
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e857b3ee1119ed48aae6fb98fd5db3f
+      internalID: 1779634804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Crouch_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2283
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a05ce4f2c72b48b7c9febba07d006
+      internalID: 744830125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Crouch_01
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2283
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3181045f2fcd34fbbd49fdaea86597
+      internalID: 2122348722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Crouch_02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2283
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fdcfb9e55eb9b44acdaf97ee5ae9b7
+      internalID: -1999197543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Crouch_03
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2283
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4c2c176205e7241a59c8ff3e9280f8
+      internalID: 1088176371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Roll_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2102
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48245dd08f3160f4782f2f5ab0fdb36f
+      internalID: -851505644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Roll_02
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2102
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c959e9662c73464fa930823eb81b047
+      internalID: -797675719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Roll_01
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2102
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7008ab3acc648c3468a7bfd32b153462
+      internalID: 158357371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Roll_03
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2102
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f735f583e20c4dba5cde68481bab8
+      internalID: 1002092487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Roll_04
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2102
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3f8f634bf14b49be1d2dcda4db80f
+      internalID: 276809765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Roll_05
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2102
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cffe4a6a52adaa4f9131f45bb620d32
+      internalID: 314936309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Roll_06
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2102
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df069baa77a86ed448c643fdf817e2d8
+      internalID: -382009563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Roll_07
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2102
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2141a828808ac40b7b2bd88469b269
+      internalID: 1476105331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Roll_08
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2102
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553216327013b7944a5de6ce6b338abc
+      internalID: 986456964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Jump_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2035
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba3a83243b82c9429a0c14be90f4ac3
+      internalID: 1091045454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2035
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b701d3d560ce1e44985c99f549e89a3c
+      internalID: -1213862168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Jump_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2035
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6580fa9448ed11147b7042fe9526c52a
+      internalID: 1883895736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Jump_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2035
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a469b5a7ed9ea40b46684c8a321d0d
+      internalID: -1501490539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Jump_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2035
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834d4eacaef0cf64e9b09e62600bfedd
+      internalID: 1399963650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Falling_00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1966
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a27b60f5cf5f945b22914dc975ac08
+      internalID: -1703502591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Falling_01
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1966
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420390597363b704886c6efa5ca23ffc
+      internalID: 864368134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Falling_02
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1966
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58d384275304bd4e8a57dc843661cfc
+      internalID: 2075759578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Landing_00
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1901
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e075f5a91662458ecf2e829d8cec9
+      internalID: -867790763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Landing_01
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1901
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476176851a8ad074fb496b8ba2c47d20
+      internalID: -240609652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Landing_02
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1901
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b28921d2da88e645b6547f9acc054ce
+      internalID: 697398804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1834
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6c7b0033bf24046bb21db88bb317e0
+      internalID: 2022447761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1834
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc04bb63d7dbac44a4cb3b1e2fa190f
+      internalID: -1672066410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1834
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eca542dac800641b26635a0a01b512
+      internalID: -2018323247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_03
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1834
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa99681cd6726434881fc60b5bf8122f
+      internalID: -142824646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_04
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1834
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da37380c98075a347808202fb6df0c17
+      internalID: 1097462640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_05
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1834
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a669df44fc8b4a42880d69fe773213e
+      internalID: -855715344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_06
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1834
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203f02f29c874fa45b82f117821fcf34
+      internalID: 364720050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_07
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1834
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d99c4a2942252544a2bfd20e6b6cba2
+      internalID: 711307444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_08
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1834
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6cbb94e82e73c4f8e5c477eecab67f
+      internalID: 717237889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_09
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1834
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee643e31bbef76d419c25da6559ca2c6
+      internalID: 553596589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1834
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d00788646b47e4788518bb6d5208b1
+      internalID: 700131374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1834
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5565bc661bc7746a7624538cb2b771
+      internalID: 337347507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1834
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d56cc273d739f42be1e916b8b8fbf0
+      internalID: 2038100991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1834
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226fb5cc73e06fb4b8392e12490371f8
+      internalID: 2089227566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1834
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1a771111eac0044a8007881adf7930
+      internalID: 1632935748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Shoot_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615bd7ecb26455146a142f5bdf16f3ae
+      internalID: 2127939030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Shoot_01
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248fd08e19d825f4f9d232eb30236469
+      internalID: 1946630675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Shoot_02
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff657ab64e8866448ec2919b6c8c7fd
+      internalID: -1518402361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Shoot_04
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e40cadf579a642881eddb06a5f5e4
+      internalID: 2038488273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Shoot_03
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a535bbda97d8bf47af50a9697dbd38c
+      internalID: -710502523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Shoot_05
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf588492197a04cadd21c4bcd00a19
+      internalID: 1387659520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Shoot_06
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367b5225127b6a54f9e7b81d45be389e
+      internalID: 1583999209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Shoot_07
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037d9f8348541c4293cf0888a4aa849
+      internalID: 1348505364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Shoot_08
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 947
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d441c29b9737bc04f94ad45d1dd6448b
+      internalID: 1070670674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast1_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2690b799b76cba428c20bae89da127c
+      internalID: 305470226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast1_01
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 754
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70205f746dda4f468132e7f7bd764e9
+      internalID: -1558508764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast1_02
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 754
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e07c63a2cc40a4285da66e2a89f111
+      internalID: -993949859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast1_03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 754
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dfd4f5f0374964e910c9960277e7a3
+      internalID: -826968903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast1_04
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 754
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3474e22da0b27a94987195a344ad7cb7
+      internalID: 227093828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast1_05
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 754
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de328e219db39024cb8888896621dd53
+      internalID: 2079801818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast1_06
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 754
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6aa6c236b698a49a6fe3f412577e9c
+      internalID: -366219788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast1_07
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 754
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e307221ea517a604da051faaf751ec4e
+      internalID: -1412620142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast2_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e46fa3d12187554bbfde29e5334dac8
+      internalID: -815720690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast2_01
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 374
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa9362243ed2c24a90b9d2627bbbdda
+      internalID: -1848870748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast2_02
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 374
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77ea1b210a3abd45bbc3f84a0f244c5
+      internalID: 55020899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast2_03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 374
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86833bb6bfd11164e82586ed5b7cc510
+      internalID: 2032476784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast2_04
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 374
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9faa68f2d1a0a8438b31521a64d0589
+      internalID: -111658538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast2_05
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 374
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a527e7a2a1d7d49bc1b6aaf1dfdc6c
+      internalID: 1639809332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Cast2_06
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 374
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e029a88d0b4654bb13765b19436b1f
+      internalID: 1624050997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Block_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46fd23740fcf1e44baa86312dfe137b
+      internalID: -1330492914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Hurt_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109d4a9cddc5b84c8611652a1a76a20
+      internalID: 627983306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Dead_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f6ceb0516ecd468edcb7820d4e71b
+      internalID: 1736463529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Dead_01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8986dcd64e7770e499715d2bc4a327a5
+      internalID: -1767515779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Dead_02
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48eb57a2bf48eb4a978d2cb531ffe1f
+      internalID: -469708509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Dead_03
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6938ad0c6e72c64ab87d4aff319ade6
+      internalID: -1781274534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Dead_04
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515b9a1a42759046a0d0cf03355fd17
+      internalID: -674903492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Dead_05
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb87300a1efe0c41bda91252e07d7e5
+      internalID: 400348759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Dead_06
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf82a034f865f4596d3943ab4181aa
+      internalID: -1700666190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Dead_07
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc35159a1406624e9a2d1c908863730
+      internalID: -195485821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Maid_Dead_08
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1354e86e9077b4445b1c253062f0c085
+      internalID: 2044203835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Heroine_Maid_0: 928736471
+      Heroine_Maid_Attack_00: 2022447761
+      Heroine_Maid_Attack_01: -1672066410
+      Heroine_Maid_Attack_02: -2018323247
+      Heroine_Maid_Attack_03: -142824646
+      Heroine_Maid_Attack_04: 1097462640
+      Heroine_Maid_Attack_05: -855715344
+      Heroine_Maid_Attack_06: 364720050
+      Heroine_Maid_Attack_07: 711307444
+      Heroine_Maid_Attack_08: 717237889
+      Heroine_Maid_Attack_09: 553596589
+      Heroine_Maid_Attack_10: 700131374
+      Heroine_Maid_Attack_11: 337347507
+      Heroine_Maid_Attack_12: 2038100991
+      Heroine_Maid_Attack_13: 2089227566
+      Heroine_Maid_Attack_14: 1632935748
+      Heroine_Maid_Block_00: -1330492914
+      Heroine_Maid_Cast1_00: 305470226
+      Heroine_Maid_Cast1_01: -1558508764
+      Heroine_Maid_Cast1_02: -993949859
+      Heroine_Maid_Cast1_03: -826968903
+      Heroine_Maid_Cast1_04: 227093828
+      Heroine_Maid_Cast1_05: 2079801818
+      Heroine_Maid_Cast1_06: -366219788
+      Heroine_Maid_Cast1_07: -1412620142
+      Heroine_Maid_Cast2_00: -815720690
+      Heroine_Maid_Cast2_01: -1848870748
+      Heroine_Maid_Cast2_02: 55020899
+      Heroine_Maid_Cast2_03: 2032476784
+      Heroine_Maid_Cast2_04: -111658538
+      Heroine_Maid_Cast2_05: 1639809332
+      Heroine_Maid_Cast2_06: 1624050997
+      Heroine_Maid_Crouch_00: 744830125
+      Heroine_Maid_Crouch_01: 2122348722
+      Heroine_Maid_Crouch_02: -1999197543
+      Heroine_Maid_Crouch_03: 1088176371
+      Heroine_Maid_Dead_00: 1736463529
+      Heroine_Maid_Dead_01: -1767515779
+      Heroine_Maid_Dead_02: -469708509
+      Heroine_Maid_Dead_03: -1781274534
+      Heroine_Maid_Dead_04: -674903492
+      Heroine_Maid_Dead_05: 400348759
+      Heroine_Maid_Dead_06: -1700666190
+      Heroine_Maid_Dead_07: -195485821
+      Heroine_Maid_Dead_08: 2044203835
+      Heroine_Maid_Falling_00: -1703502591
+      Heroine_Maid_Falling_01: 864368134
+      Heroine_Maid_Falling_02: 2075759578
+      Heroine_Maid_Hurt_00: 627983306
+      Heroine_Maid_IdleToRun_00: 2036293017
+      Heroine_Maid_IdleToRun_01: -810560305
+      Heroine_Maid_Idle_00: -509083235
+      Heroine_Maid_Idle_01: 468834276
+      Heroine_Maid_Idle_02: 1173936683
+      Heroine_Maid_Idle_03: -122667219
+      Heroine_Maid_Idle_04: 457576472
+      Heroine_Maid_Idle_05: 1849714664
+      Heroine_Maid_Idle_06: -1149862935
+      Heroine_Maid_Idle_07: 415819883
+      Heroine_Maid_Idle_08: 1146914564
+      Heroine_Maid_Idle_09: -1880706184
+      Heroine_Maid_Idle_10: 1270228029
+      Heroine_Maid_Idle_11: 295623741
+      Heroine_Maid_Idle_12: 1806820983
+      Heroine_Maid_Idle_13: 1755469589
+      Heroine_Maid_Idle_14: 695299211
+      Heroine_Maid_Idle_15: -847557166
+      Heroine_Maid_Idle_16: -1169258344
+      Heroine_Maid_Idle_17: 641248342
+      Heroine_Maid_Idle_18: 2061165477
+      Heroine_Maid_Idle_19: 805281130
+      Heroine_Maid_Idle_20: -191231503
+      Heroine_Maid_Idle_21: -1603039405
+      Heroine_Maid_Idle_22: 57732043
+      Heroine_Maid_Idle_23: -862510293
+      Heroine_Maid_Idle_24: -1737116087
+      Heroine_Maid_Idle_25: -1405854995
+      Heroine_Maid_Idle_26: -335312958
+      Heroine_Maid_Idle_27: 820063314
+      Heroine_Maid_Idle_28: 1484515558
+      Heroine_Maid_Idle_29: 326261082
+      Heroine_Maid_Idle_30: 1959639883
+      Heroine_Maid_Idle_31: -1315302111
+      Heroine_Maid_Idle_32: -249279903
+      Heroine_Maid_Idle_33: 885962020
+      Heroine_Maid_Idle_34: 1693745800
+      Heroine_Maid_Idle_35: -650639473
+      Heroine_Maid_Idle_36: 1305615699
+      Heroine_Maid_Idle_37: 2091242838
+      Heroine_Maid_Idle_38: 1279287844
+      Heroine_Maid_Idle_39: 1651340743
+      Heroine_Maid_Idle_40: 1003472703
+      Heroine_Maid_Idle_41: -1571575242
+      Heroine_Maid_Idle_42: -2146473332
+      Heroine_Maid_Idle_43: 1063699998
+      Heroine_Maid_Idle_44: 277596933
+      Heroine_Maid_Idle_45: -1517121222
+      Heroine_Maid_Idle_46: -1961872367
+      Heroine_Maid_Idle_47: -1051314594
+      Heroine_Maid_Idle_48: 923026634
+      Heroine_Maid_Idle_49: -723324492
+      Heroine_Maid_Idle_50: -1907097773
+      Heroine_Maid_Idle_51: 1943929872
+      Heroine_Maid_Idle_52: -1116730076
+      Heroine_Maid_Idle_53: -1750300981
+      Heroine_Maid_Idle_54: -1848866604
+      Heroine_Maid_Idle_55: -1394130522
+      Heroine_Maid_Jump_00: 1091045454
+      Heroine_Maid_Jump_01: -1213862168
+      Heroine_Maid_Jump_02: 1883895736
+      Heroine_Maid_Jump_03: -1501490539
+      Heroine_Maid_Jump_04: 1399963650
+      Heroine_Maid_Landing_00: -867790763
+      Heroine_Maid_Landing_01: -240609652
+      Heroine_Maid_Landing_02: 697398804
+      Heroine_Maid_Roll_00: -851505644
+      Heroine_Maid_Roll_01: 158357371
+      Heroine_Maid_Roll_02: -797675719
+      Heroine_Maid_Roll_03: 1002092487
+      Heroine_Maid_Roll_04: 276809765
+      Heroine_Maid_Roll_05: 314936309
+      Heroine_Maid_Roll_06: -382009563
+      Heroine_Maid_Roll_07: 1476105331
+      Heroine_Maid_Roll_08: 986456964
+      Heroine_Maid_RunToIdle_00: 1928566867
+      Heroine_Maid_RunToIdle_01: -660278179
+      Heroine_Maid_RunToIdle_02: -1180529858
+      Heroine_Maid_RunToIdle_03: 1779634804
+      Heroine_Maid_Run_00: 1098492836
+      Heroine_Maid_Run_01: -1816648933
+      Heroine_Maid_Run_02: -1530350767
+      Heroine_Maid_Run_03: -1185322423
+      Heroine_Maid_Run_04: 1717961474
+      Heroine_Maid_Run_05: -336407088
+      Heroine_Maid_Run_06: 864008102
+      Heroine_Maid_Run_07: -1373314465
+      Heroine_Maid_Shoot_00: 2127939030
+      Heroine_Maid_Shoot_01: 1946630675
+      Heroine_Maid_Shoot_02: -1518402361
+      Heroine_Maid_Shoot_03: -710502523
+      Heroine_Maid_Shoot_04: 2038488273
+      Heroine_Maid_Shoot_05: 1387659520
+      Heroine_Maid_Shoot_06: 1583999209
+      Heroine_Maid_Shoot_07: 1348505364
+      Heroine_Maid_Shoot_08: 1070670674
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

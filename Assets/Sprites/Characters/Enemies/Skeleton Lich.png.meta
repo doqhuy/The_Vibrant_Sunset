@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: 4556ca26fc7acd74681a668ca408e64e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton Lich_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 516
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe23c7eaf01ad4aa79205f6ab9294e
+      internalID: 598854388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 516
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1b8e033825e34fad4652e2de3fda9
+      internalID: 996504029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 516
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3410a96974e03e47a6bf179aadbf492
+      internalID: 1621589410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 516
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edfa4c93035e8c4f914335a9e9aa6d4
+      internalID: 1438752721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 516
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c905c99697e3844dbc9dcecba64e434
+      internalID: -2041333743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 516
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9240b00d484f97a4e96e45d16774663a
+      internalID: 181166609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 516
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d01858cd98498d499b2c9c4150a0f27
+      internalID: 1546201084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 516
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a7521fa15c0f45ab6c9854ec28982
+      internalID: 1719355773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 447
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df137fd175b9f9468b3b3d7a8b940ad
+      internalID: -485975195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 447
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e79c68f1fdbc9e4b9b1dc1f3eda8de4
+      internalID: -46642330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 447
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535b18dc9bb6f0b4885eb876ce2f5552
+      internalID: 441316620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 447
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f5d5dccfb036241bde8b5b24451fbc
+      internalID: -340318858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 447
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05d62ce989b0e94b9cf9f9f8a6a2e1a
+      internalID: -1594245289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 447
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a42d1f556a54d84f846fa9c484ecb30
+      internalID: -410887941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 447
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25170182f81eb040a03b9731b1ae3e5
+      internalID: 1791223650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 447
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b95aad52041fa4597d237b9f8e3a53
+      internalID: -537503046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 351
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df852d767c39c7e4cbcef760ab478f4c
+      internalID: -1390390072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 351
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed7ed38f04acc245826025d808e1990
+      internalID: -963333267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 351
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d40f1c045663244ab608ca12a015fe6
+      internalID: 1247858519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 351
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aa9340c8ab0334aaf259d11b2baa61
+      internalID: -1720240356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8692da114b47534ab90eb19fef5ad6f
+      internalID: -616802090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 351
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444e9fc60a1b1b43824fa9f29083bfd
+      internalID: 352315047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_30
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 351
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100117243006b784197386ea48184ac1
+      internalID: 496769407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 269
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eddc1530286c046a789e9c0371d198
+      internalID: 342972157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 269
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe726167993a64f9168288cda80956
+      internalID: -2141209808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 269
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f481de7e989be954e9694da0bc4b0dfe
+      internalID: 1349822375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 269
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e42c7dca24e52647af5da5fd9ca2f82
+      internalID: 927373871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 187
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ec0705715bfa4cb323113981c14e9
+      internalID: 779644860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 187
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92898b1169ad1304b85c1e51653d89e3
+      internalID: -323322006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 187
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f626195fd89787041958a5f1f836725b
+      internalID: -2080019308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 187
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2796cf86741f34ebc80e8ca5db6c6b
+      internalID: -747115921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 187
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676cb4dbe1395674ab83313556126bba
+      internalID: 1088592247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 187
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba4b1d5bdac9d343b97cc6b5a7561d7
+      internalID: 2047509961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7df1a4a4b39d244879da9fa547557c
+      internalID: -814248031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 119
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6404b3b9bf92613489e02b3a8b5d181d
+      internalID: -1098656531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28fbcfae142c7b478d9091bb7b03331
+      internalID: 1051209673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 43
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f0a8fa0510eb46b2b544a5314d9d8
+      internalID: 760690768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Lich_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf573d73041d644cb0b5ebd81d89c4a
+      internalID: 948201510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Skeleton Lich_0: 1479178586
+      Skeleton Lich_1: 473882507
+      Skeleton Lich_10: -485975195
+      Skeleton Lich_11: -46642330
+      Skeleton Lich_12: 441316620
+      Skeleton Lich_13: -340318858
+      Skeleton Lich_14: -1594245289
+      Skeleton Lich_15: -410887941
+      Skeleton Lich_16: 1791223650
+      Skeleton Lich_17: -537503046
+      Skeleton Lich_18: -2031473525
+      Skeleton Lich_19: 863092972
+      Skeleton Lich_2: 598854388
+      Skeleton Lich_20: -830242194
+      Skeleton Lich_21: -1703936161
+      Skeleton Lich_22: -867852272
+      Skeleton Lich_23: -784752156
+      Skeleton Lich_24: -1390390072
+      Skeleton Lich_25: -963333267
+      Skeleton Lich_26: 1247858519
+      Skeleton Lich_27: -1720240356
+      Skeleton Lich_28: -616802090
+      Skeleton Lich_29: 352315047
+      Skeleton Lich_3: 996504029
+      Skeleton Lich_30: 496769407
+      Skeleton Lich_31: 342972157
+      Skeleton Lich_32: -2141209808
+      Skeleton Lich_33: 1349822375
+      Skeleton Lich_34: 927373871
+      Skeleton Lich_35: -458269808
+      Skeleton Lich_36: 1707914235
+      Skeleton Lich_37: 1936409333
+      Skeleton Lich_38: -21854780
+      Skeleton Lich_39: 779644860
+      Skeleton Lich_4: 1621589410
+      Skeleton Lich_40: -323322006
+      Skeleton Lich_41: -2080019308
+      Skeleton Lich_42: -747115921
+      Skeleton Lich_43: 1088592247
+      Skeleton Lich_44: 2047509961
+      Skeleton Lich_45: -814248031
+      Skeleton Lich_46: -1098656531
+      Skeleton Lich_47: 1051209673
+      Skeleton Lich_48: -1370434934
+      Skeleton Lich_49: -713219634
+      Skeleton Lich_5: 1438752721
+      Skeleton Lich_50: 1403536145
+      Skeleton Lich_51: -583111890
+      Skeleton Lich_52: -1361521527
+      Skeleton Lich_53: -1038549965
+      Skeleton Lich_54: -748595319
+      Skeleton Lich_55: -130692715
+      Skeleton Lich_56: 318844331
+      Skeleton Lich_57: 760690768
+      Skeleton Lich_58: 78797376
+      Skeleton Lich_59: -788069941
+      Skeleton Lich_6: -2041333743
+      Skeleton Lich_60: 1264808940
+      Skeleton Lich_61: 932737672
+      Skeleton Lich_62: 948201510
+      Skeleton Lich_63: -2144342846
+      Skeleton Lich_64: -657303699
+      Skeleton Lich_7: 181166609
+      Skeleton Lich_8: 1546201084
+      Skeleton Lich_9: 1719355773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

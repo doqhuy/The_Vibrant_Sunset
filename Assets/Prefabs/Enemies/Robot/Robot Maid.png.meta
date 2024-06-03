@@ -1,0 +1,1962 @@
+fileFormatVersion: 2
+guid: 4bd73a7ef92e178488f23c0e0e5bf5d5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robot Maid_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 271
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05362d281b62e39469378a9b1a633749
+      internalID: -1958689058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_81
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 207
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8c60a0174b6c4da49d55116e28b6a
+      internalID: -981937139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_82
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe00f3912eac5ff49ab68c4df5cf4c5d
+      internalID: -1714619829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 208
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e32f350e808c4ebd6f044f527be91
+      internalID: 1366958729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_84
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 207
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74548ea07a8044696507048da59ecd
+      internalID: 208042856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_85
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 204
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8df35ff26e62346a6cfb8c14d79ad6
+      internalID: -824420667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_86
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 204
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef85fc9abf64eb2418de75cb63d8b9b6
+      internalID: -2111188690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 203
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe45956259f2e7342aa7a020b8a80431
+      internalID: 428552167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_91
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 189
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55494d9c77754e04593136839cbda33c
+      internalID: 1357792502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_105
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 146
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1bbce50a40c4b4b8ac70a908131c05
+      internalID: 1149380078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_106
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 115
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816fb86aaa200c242a927b2df1add86f
+      internalID: 1868725815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_107
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 147
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6f533a0dea7f49a593257ddf9c45a
+      internalID: 2066765729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_108
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 117
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fec835b7874ba459d8723930f7d5f5
+      internalID: -1524866951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_109
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 147
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25c448d55b2c314f811c9c39c2bc8a7
+      internalID: 1053737213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_110
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 146
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b2f9cff0b235f458a6932417644ac7
+      internalID: -507615233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_124
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 46
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a47a7f79cbcbc46894c464c1a05d3e
+      internalID: 1989118119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 386
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbedbe90bfdbd8c438819b4825a1de05
+      internalID: -1626902618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 386
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce488a4dcbd67c2459aee62f81e8a748
+      internalID: -1666944478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 329
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3bd90bb579384d9c37bb6cb35cd85
+      internalID: -753554205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 329
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3c1a82abf53a946b62d14eab149be0
+      internalID: 878911418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 328
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b38367f0ba6be42b1ac53f74e794b0
+      internalID: 1268939021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 328
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539ea38039781e44b703c020807efbb
+      internalID: 2139078731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 328
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916c64426e9ed9943846a9880fadf73a
+      internalID: 1584520838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 329
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00c4a3ba578a0e4c97bd5180bd974a8
+      internalID: 1373549420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 329
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039730f17ee7f3c4dbc28d44cd6a97cd
+      internalID: 872245190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_21
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 329
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aaa856df600d44f8f372c865a2cbb6
+      internalID: 473551479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 329
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a58890b13cfd4447b967f65a620079f
+      internalID: -543879572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 330
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8af91c735c0b2d4ebb4cd31fe511b01
+      internalID: 1022004927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 330
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee4b8929c4d0bc46b1d4329ccaa5ada
+      internalID: 1218360452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 330
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e1e5bcac07d0459db44ba53e024e3
+      internalID: -1763724308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef4354a98a61c9479e1cd9440a179c8
+      internalID: -1708201491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 272
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00acdad3684748d47a1558751d15971f
+      internalID: 1745104845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 272
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e599da98d499ad94187678b63fc64a5a
+      internalID: 627162955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 272
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32e438f720097c479c81f9098b57ffe
+      internalID: 1127787519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 272
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e94013317a134da50236d2c929b65
+      internalID: 500573488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_45
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 272
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cb124d2a91dac4d897a75926e053aa
+      internalID: 1802686438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 271
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960f3e98ba011a4fb52da10bd5eaa0b
+      internalID: -342701844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 271
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96332b9aee4e22459c08600a9cbea69
+      internalID: -438906739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 271
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168980ca2d22f4b44bd1c5be68fb3e72
+      internalID: 2116034506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_52
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 271
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a1d00e09259df4ba143152215406d2
+      internalID: -2038679109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_54
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 271
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816035ec971042a4aa288950de07b104
+      internalID: -1266553575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_72
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 256
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb850de38df8a1479fae46f9bda48cc
+      internalID: 1756499153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_73
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 256
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e8dc3c99fb7e458a399717b5af1ac
+      internalID: -728406517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_74
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 256
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe14fa46addf9da468344c4b9df85a02
+      internalID: 529113669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_75
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 256
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0c3bb84d7c55b41ab9e39d28b6dee2
+      internalID: 842230104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_76
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 256
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa9059c1b067ad47972b9480c2a1785
+      internalID: 53899332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_77
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 254
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e207da3e9c8c41844af155b4355b1203
+      internalID: 1240029197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_78
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 256
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed30bea8187bcc4c88fb88fa7446f26
+      internalID: 1599383401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f2fd1d376f9248a4b6158dd01ac16
+      internalID: 1743215240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_80
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 256
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e612f43c1eda30543b2023be67ee94bf
+      internalID: -1703375108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_92
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 189
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ce8a66419b0eb48acda325055685c5
+      internalID: 1475788224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_93
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 189
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1757eb40e943f4f46884b582172ce32c
+      internalID: -583765380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_94
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 181
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82e22378302bd4294f821b1625ae53
+      internalID: -23949807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_95
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 164
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27782795766c0a478437255da4bb26c
+      internalID: -1284042866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_96
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 166
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bbea8c2e2685140bc44fab44b236de
+      internalID: 864284534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_97
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 166
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a960d1dde49f22c49857b21873a009db
+      internalID: 1266671568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_98
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 166
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ea9c79928cda448a44d6dcdbf887b0
+      internalID: -100063245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_99
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 164
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffaeaaa5aa54bd4688d0626b4a5f352
+      internalID: -323428652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_100
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 166
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39147d8a2fab044c82239438f7d5532
+      internalID: -1832772612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_101
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 164
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8aedd817ad5d34ba223e88597305f4
+      internalID: -288213700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_102
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 166
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c003f6bd175d4e87b2c84d718764e
+      internalID: 2006855753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 166
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e60c3bb0dbaf5943aa9073789b16933
+      internalID: -1378739078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_104
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 166
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4039cc6a6d8f1ba48916439ced517e48
+      internalID: -1472235932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_111
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 114
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5dbf38436b080478b8183e19531606
+      internalID: -377349377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_112
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 113
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1183e2ccc87847a1dbf3100717293
+      internalID: 1559284074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_113
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 114
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e28aa1fd04d743b2aaf0f61e91a59
+      internalID: 807703911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_114
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 113
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38030a6114832c441a9b0828c2406a29
+      internalID: -893521933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_115
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 99
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2051f55356b1754db789c2a41c9dedd
+      internalID: -1770015536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_116
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 99
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99c42b3fa791ba4fbd62e88806866c0
+      internalID: -386063368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_117
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 99
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04135445d0d21404f98ca91e5db65eb7
+      internalID: -824992457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_118
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 99
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcf1133be09a504e9c78efc81bc5a55
+      internalID: 1877122630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_119
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 97
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ce84e9dea3d540b65af84c3ff2399
+      internalID: 1404487956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_120
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 99
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd42e66ccf2b3684bb037a5b8fd3c1af
+      internalID: -681537456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ac99ec5281cd0488dadda51c1c5130
+      internalID: -2049911506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_122
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 99
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e458c57a59ece45a45b9c1cb91415c
+      internalID: 1542019398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_123
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 99
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde1be06df25db4abe77b3e97e874a0
+      internalID: 1859206438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_126
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f343089d0e5b7e4ba8b479478828e29
+      internalID: -1229656870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_127
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463f866733cffab4d9713b536576375d
+      internalID: 696885491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_128
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae612d4f40a47447bc787c87b11a431
+      internalID: -445239842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_129
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30704aaadc206db4d86d80158150fcea
+      internalID: 1650862473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Maid_133
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3
+        width: 85
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a275fdc55fa74593801210ec82f8b
+      internalID: 1074747973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Robot Maid_0: -1626902618
+      Robot Maid_1: -1666944478
+      Robot Maid_10: -1162311295
+      Robot Maid_100: -1832772612
+      Robot Maid_101: -288213700
+      Robot Maid_102: 2006855753
+      Robot Maid_103: -1378739078
+      Robot Maid_104: -1472235932
+      Robot Maid_105: 1149380078
+      Robot Maid_106: 1868725815
+      Robot Maid_107: 2066765729
+      Robot Maid_108: -1524866951
+      Robot Maid_109: 1053737213
+      Robot Maid_11: 2139078731
+      Robot Maid_110: -507615233
+      Robot Maid_111: -377349377
+      Robot Maid_112: 1559284074
+      Robot Maid_113: 807703911
+      Robot Maid_114: -893521933
+      Robot Maid_115: -1770015536
+      Robot Maid_116: -386063368
+      Robot Maid_117: -824992457
+      Robot Maid_118: 1877122630
+      Robot Maid_119: 1404487956
+      Robot Maid_12: 697015917
+      Robot Maid_120: -681537456
+      Robot Maid_121: -2049911506
+      Robot Maid_122: 1542019398
+      Robot Maid_123: 1859206438
+      Robot Maid_124: 1989118119
+      Robot Maid_125: 681800037
+      Robot Maid_126: -1229656870
+      Robot Maid_127: 696885491
+      Robot Maid_128: -445239842
+      Robot Maid_129: 1650862473
+      Robot Maid_13: 782681086
+      Robot Maid_130: 1263196367
+      Robot Maid_131: -42304421
+      Robot Maid_132: 1980380753
+      Robot Maid_133: 1074747973
+      Robot Maid_14: 1584520838
+      Robot Maid_15: 2000135457
+      Robot Maid_16: -1839115463
+      Robot Maid_17: 1373549420
+      Robot Maid_18: 1769433305
+      Robot Maid_19: 872245190
+      Robot Maid_2: -753554205
+      Robot Maid_20: 1280847774
+      Robot Maid_21: 473551479
+      Robot Maid_22: -74065700
+      Robot Maid_23: -543879572
+      Robot Maid_24: -2138714699
+      Robot Maid_25: 1022004927
+      Robot Maid_26: 1218360452
+      Robot Maid_27: -1763724308
+      Robot Maid_28: -1174342661
+      Robot Maid_29: -272735510
+      Robot Maid_3: -1621713892
+      Robot Maid_30: -1181898616
+      Robot Maid_31: -1943572334
+      Robot Maid_32: 1904706302
+      Robot Maid_33: -1529262361
+      Robot Maid_34: -1273693251
+      Robot Maid_35: 370898679
+      Robot Maid_36: -65215547
+      Robot Maid_37: -509744782
+      Robot Maid_38: 1597080627
+      Robot Maid_39: -277161322
+      Robot Maid_4: 1404067592
+      Robot Maid_40: -1708201491
+      Robot Maid_41: 1745104845
+      Robot Maid_42: 627162955
+      Robot Maid_43: 1127787519
+      Robot Maid_44: 500573488
+      Robot Maid_45: 1802686438
+      Robot Maid_46: -342701844
+      Robot Maid_47: 1549620864
+      Robot Maid_48: -438906739
+      Robot Maid_49: 2052409986
+      Robot Maid_5: 878911418
+      Robot Maid_50: 2116034506
+      Robot Maid_51: 75781422
+      Robot Maid_52: -2038679109
+      Robot Maid_53: -769464371
+      Robot Maid_54: -1266553575
+      Robot Maid_55: 244355177
+      Robot Maid_56: -1495475484
+      Robot Maid_57: -1958689058
+      Robot Maid_58: 568188651
+      Robot Maid_59: -1185638864
+      Robot Maid_6: 499407898
+      Robot Maid_60: -1592723117
+      Robot Maid_61: 1609086298
+      Robot Maid_62: -843778311
+      Robot Maid_63: -714924247
+      Robot Maid_64: -1257315648
+      Robot Maid_65: -1128870056
+      Robot Maid_66: -1785200894
+      Robot Maid_67: 1553396839
+      Robot Maid_68: 48787318
+      Robot Maid_69: -886371443
+      Robot Maid_7: -50583247
+      Robot Maid_70: 94683733
+      Robot Maid_71: -562007641
+      Robot Maid_72: 1756499153
+      Robot Maid_73: -728406517
+      Robot Maid_74: 529113669
+      Robot Maid_75: 842230104
+      Robot Maid_76: 53899332
+      Robot Maid_77: 1240029197
+      Robot Maid_78: 1599383401
+      Robot Maid_79: 1743215240
+      Robot Maid_8: 1268939021
+      Robot Maid_80: -1703375108
+      Robot Maid_81: -981937139
+      Robot Maid_82: -1714619829
+      Robot Maid_83: 1366958729
+      Robot Maid_84: 208042856
+      Robot Maid_85: -824420667
+      Robot Maid_86: -2111188690
+      Robot Maid_87: 428552167
+      Robot Maid_88: -1245648875
+      Robot Maid_89: 622153539
+      Robot Maid_9: 880366185
+      Robot Maid_90: -2141856941
+      Robot Maid_91: 1357792502
+      Robot Maid_92: 1475788224
+      Robot Maid_93: -583765380
+      Robot Maid_94: -23949807
+      Robot Maid_95: -1284042866
+      Robot Maid_96: 864284534
+      Robot Maid_97: 1266671568
+      Robot Maid_98: -100063245
+      Robot Maid_99: -323428652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

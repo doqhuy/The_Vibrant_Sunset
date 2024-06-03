@@ -1,0 +1,3260 @@
+fileFormatVersion: 2
+guid: 6f4dbc82da85cf34ba2c0b1eae28eace
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2788
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c020d0b240ffb4fa959d372bac6208
+      internalID: 1936169028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2788
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ebdb0880015464cbff53795819eeff
+      internalID: 415861797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2788
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b97bbf959cf7498493650f4113941
+      internalID: -810404900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2788
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d2133c37e07cd4a83b8338c318b062
+      internalID: -152542580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779673752a343f94abd4012c4ea260a8
+      internalID: -1500591609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d29a190d945b428d0889d5baa99da
+      internalID: 1544223787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4a6f11a04f494cbb04214cd55e460
+      internalID: -672771420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_07
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dd0b11ee12aa7438c8178054ddabba
+      internalID: -1467102645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_08
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75507432928251c44847f0bd0f88b972
+      internalID: -219441098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_09
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96182e910dd7a14eac0a854eeb565b5
+      internalID: -778007905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bff652d1cdadc478807395a93cc61d
+      internalID: -125129749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708570f91e84ab544a84a66733301228
+      internalID: -1708474515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a9f27b43881914e8491d25424e60d8
+      internalID: 117699247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d288e18411ee846b6715847af2ac16
+      internalID: -1365757679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8996ddf555675a47bf1177e39b5e3ff
+      internalID: 4317740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf70da92bc651846995c302d8430455
+      internalID: 1720104838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931044a73c284cf4797f1864584bd3d5
+      internalID: -1839438432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4659c083835b740996c7c0c2d3f93c
+      internalID: -1773369041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b0c9f4647ff54f87d511c74e964e9
+      internalID: 71593410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5539a95f6e99bc24a8612e2907a07f6a
+      internalID: -773462211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce57596347b587f41aec14f381b1ef2b
+      internalID: -1077923539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8a6d91a47b19046921b76f7645ee6c
+      internalID: 309372746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2788
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04702a90e60b9964cbaa49b061a6468f
+      internalID: 2120138740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2731
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fc87450a1c93b4dbc4318840a7d491
+      internalID: -407455156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2731
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca139acfaac0154a88d365359eda4b3
+      internalID: -1478636374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2731
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca299b0a2711934b8abee7e2ca375bf
+      internalID: -1635401543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2731
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4835c9944195ad45bc3bb88c46bf0f7
+      internalID: 664138778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089d5f1cb63a6b346b33e7e71edaf338
+      internalID: -929266076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2377d7266ad7a7a41987cff4cb0565c5
+      internalID: 1692276213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cbbf1996f5d2249bce77d86b28989b
+      internalID: -2119323493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cf897fbfc04964aad7379a47f0e904
+      internalID: -112679435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5307de53218f4e54ebde8819580e3c19
+      internalID: 659596192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e54d269165f92440b4c8141f83eddcf
+      internalID: 24629813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749c037aba874e641b3154d24cd1d4d2
+      internalID: 1158507785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0017811040125a42bb98745d948050c
+      internalID: 1351762389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c6939bbb6952241807d4d1b2f2df4c
+      internalID: 34423960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a327cca4fb3e6f7498272fe8cc90576a
+      internalID: -1497475668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3133d577d3582245939e757e7c34f11
+      internalID: -603870602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bc27cde296d374ba4bfca675b45581
+      internalID: 692324624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170f00fbdfd3a2d4a8ec828c02a97cff
+      internalID: -1156193822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513f16ac6f05e24cbe1b7c98c71971b
+      internalID: -929635673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6bd2521b3646548a8c03a42c717a6d
+      internalID: 980350578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64ac9066f70e59468b980fa70641021
+      internalID: 336207401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ff7f7a069499445bb17c97d8357e9a
+      internalID: 574502349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf63e9027776f4d9154c6b7b980242
+      internalID: 1224350744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2731
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcd2249b159190468fbaa4b321cd057
+      internalID: -2055178005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2674
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e79c63f5ae86e478b03a8b514f9245
+      internalID: 1510569583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2674
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003788a6d3ecfe04788f459a66b89820
+      internalID: 1149683424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2674
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ea4876ce68c248a22548f554c827b
+      internalID: 426216919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2674
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cff6924a2630f4e9749f8fa4ee9c96
+      internalID: -1017542465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2674
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a4103a69b9d9f428910747655a4845
+      internalID: 1816040211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2674
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573ee15e2e90b04f8c77b090e618738
+      internalID: -1580916141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2674
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d90254ad01e3c1408e8f79b66b08090
+      internalID: 452255066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2674
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86939643a62f9ce41b02e4f9b346cabc
+      internalID: 653266228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2674
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef44bce300d8e347be8015259974ca9
+      internalID: 657105023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Idle_56
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2674
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34811e1f15883ae4e94b672dd9ff38c1
+      internalID: 513329853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_IdleToRun_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2604
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fe83880226854b8053747f8bd08b4
+      internalID: -465161955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_IdleToRun_01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2604
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede10c8e2a974441b5848e2fd59490c
+      internalID: -1250779009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Run_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2534
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e66fcc4e38afa1428d52b2c91fcfd1b
+      internalID: -1003808043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Run_01
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2534
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4718f52cb672b346a5c337ea376c900
+      internalID: 2000737274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Run_02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2534
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e15d3cfe7d922e42a2018e7a00b2825
+      internalID: 1337559626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Run_03
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2534
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37537e6e5e1d85f46a262c13656a496b
+      internalID: -1084985110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Run_04
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2534
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40317e102316440b3192bdd25c08b6
+      internalID: 1288175105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Run_05
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2534
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c3c56bd27473345a67a5fdf0bc6cc5
+      internalID: -825933184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Run_06
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2534
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d92ac3f00fc3d478459558a5af9496
+      internalID: 67503096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Run_07
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2534
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623dfb15f4269b049b1b1cfd7817149a
+      internalID: 417209731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_RunToIdle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2463
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6003fdb86f570c446aae96a54cc40d73
+      internalID: -1229779934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_RunToIdle_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2463
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae85c7950dda45f4795c715342dfa33f
+      internalID: -1588969251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_RunToIdle_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2463
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb6554668f255c49bb27ddf191f63c3
+      internalID: -521453676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_RunToIdle_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2463
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a19bba706093c429ea9d5698ff839e
+      internalID: -842241153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Crouch_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2396
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d2c2894d052ca49a784b43bf8674e7
+      internalID: 1590140521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Crouch_01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2396
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0950a487f8f72a94f86510bd08526ce8
+      internalID: 724690220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Crouch_02
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2396
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f66515f8b0beb64fbd407e8626aa28b
+      internalID: -1262715840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Crouch_03
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2396
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397c4d4af46aab643b1dd5ecf21e80c9
+      internalID: 798720320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Crouching_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2338
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ec41995925324b876c2426a1c977b
+      internalID: 1586456541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_CrouchToIdle_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2271
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66a60b9c063fbf42ba2832a64fdac8d
+      internalID: -527460772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Roll_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2205
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b37557fad7fe649880c82d61bddf9c
+      internalID: 1717126950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Roll_01
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2205
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36f0230cad8111488efbe8b45efd020
+      internalID: 2025288412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Roll_02
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2205
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e05cb6e279643d46833611bfb70cda8
+      internalID: 271836968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Roll_03
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2205
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a286b3cc5b60534086be2b36ddc1e4c
+      internalID: 429711778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Roll_04
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2205
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c27b5605aa22ba4eba504272bd54252
+      internalID: 743276068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Roll_05
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2205
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ed967b51104d341b912822d368a79d
+      internalID: 552045693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Roll_06
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2205
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16e5c358e5679e498bb3f20ba5556f7
+      internalID: 1649317233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Roll_07
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2205
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19744534f6ca37f40a527b9dd30ccb28
+      internalID: -664348257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Roll_08
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2205
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3edfb20b814b3f429214dcc64eb2ea5
+      internalID: -1622238503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Jump_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2134
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1d4c752d6855449219b28ac6a526a
+      internalID: 313426291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2134
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fffe1fde743bcc45b6139e1aeedb97b
+      internalID: 1642697229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Jump_02
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2134
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beaff1e1391a474ea9d29454bca9bd7
+      internalID: 1902228350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Jump_03
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2134
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4af6380b7397d4ab49c06e05cfa563
+      internalID: -1520833276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Jump_05
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2134
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d12feb83268b45be9d38106c9c7be
+      internalID: -162701991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Falling_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2065
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4895f305921cc8644b791b6f2c6b5d00
+      internalID: 2083206955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Falling_01
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2065
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fc6887ee01a34d8c7729726a14fd2
+      internalID: 505293066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Falling_02
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2065
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8287ebf9f14f9b4b8c9e6278c4c257a
+      internalID: 1439862381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Landing_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1998
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984d563f646f06542949e31214e4244b
+      internalID: -1722268416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Landing_01
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1998
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaa003953b7b654284f53a70b2a3210
+      internalID: 52768322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Landing_02
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1998
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbfbb4c6d3c6ad49836f75bb55a1d69
+      internalID: 1605122108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1928
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f421fc45ea71d248a9d9e406988439e
+      internalID: -494033442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1928
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9045186c5a1604ba752cc5c48aaebf
+      internalID: 1555589211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1928
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008457da110789d4aafa4a3598c266d8
+      internalID: 837530754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_03
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1928
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f225ce4e7a88ebc449457e3cb780956f
+      internalID: -1230186981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_04
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1928
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec7d360fd56544448f8868c2ae8ac29
+      internalID: -780603301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_05
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1928
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13d009e0bcc7fc46b969a997026df28
+      internalID: -1254610219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_06
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1928
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d21163eb7d09594ebf05dfaf6485a5d
+      internalID: 893158019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_07
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1928
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9acbd5bfecd9454e8c4e208bc330f69
+      internalID: -2065541359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_08
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1928
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bb7bd63ddf1854a965ebd07862af1c
+      internalID: 1793383758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_09
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1928
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94748d09d640fff44851c3ecb1a911bf
+      internalID: -748438057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1928
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ea99c2c12f4b47ac2b74f7c7b9940
+      internalID: -1555753754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1928
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a46f78d5ada4748920f6ccdcfac663
+      internalID: 895735867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Shoot_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 995
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c099a2a3b95bd14f8b3707e0a3db474
+      internalID: -1476236939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Shoot_01
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 995
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8796fc220d1d68148aaaba241620c298
+      internalID: 317138657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Shoot_02
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 995
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f5b243cdb97c444a9d7e3e11533171
+      internalID: -885915504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Shoot_03
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 995
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6697edfa0a2c41441aa9e9873da4dbee
+      internalID: 2054556664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Shoot_04
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 995
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa82e1484f64ede4bb8d14cfb3970eb5
+      internalID: 635456363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Shoot_05
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 995
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17a513e69c11c49adc079928c58ff6
+      internalID: -183005758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Shoot_06
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 995
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149b33934a348244fb8ab32ecab64892
+      internalID: 732343246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Shoot_07
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 995
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a9fb9eca863f4ba6fc8eb2e3d00c2
+      internalID: 1599488766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Shoot_08
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 995
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c13aef5739cc4ca4b3d0df4f04d2d
+      internalID: 364306128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast1_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d6683debcf08f42837c1ebbb5218bd
+      internalID: 1678880891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast1_01
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 792
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc3a19afd4b2e2428bb7e5d49fe0a2a
+      internalID: -2006502520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast1_02
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 792
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634650a91a81a784295420f3092504d1
+      internalID: -128211811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast1_03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 792
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705bdaf0707108a4799195f51dbbb14d
+      internalID: -63557074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast1_04
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 792
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8baa3c6cb35a32429f4b8817b229664
+      internalID: -939045145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast1_05
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 792
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6000e439ca2a5d44f903dc25e3fb6c09
+      internalID: -2016099553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast1_06
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 792
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9815d9ee2ae83a45b45c186e5f65194
+      internalID: -481061125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast1_07
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 792
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc13e7b9a497584ab2a4a872cfc13dc
+      internalID: -410203624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast2_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd877ed24c9a7942b8b31c10d1cacfc
+      internalID: 146748354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast2_01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 395
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be9eb8688b95e46b6f5cdf249162d0
+      internalID: -147468084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast2_02
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 395
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2865bc60ec6aea34ea20f053d4995d63
+      internalID: 1351715503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast2_03
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 395
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61207c0eeaeaa1a40a7dfed11e005f16
+      internalID: 282183153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast2_04
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 395
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca0bfe98e7bd74f9ede1fd98223c85
+      internalID: -1217056047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast2_05
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 395
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108dfbc7b90d8d44cac8144dbd797b22
+      internalID: -1649802031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Cast2_06
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 395
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8499ccb5748b442b83cd6332c184e8
+      internalID: 2109250974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Block_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfff2e813ecf2840a06259188d24680
+      internalID: 815606173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Hurt_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c0f9af7d69d9c4d97d71c0306e2fdf
+      internalID: 212356840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Dead_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2cbdde375aaaf4681061894857e909
+      internalID: -1715951071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Dead_01
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c821616aefe904e8e5a2a8b98d987a
+      internalID: -1069621086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Dead_02
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762cd00716a9ba147bd6cd9f5f395e7e
+      internalID: 1973039124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Dead_03
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c690b62f5040b64fb7d994ed05025ac
+      internalID: 267376823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Dead_04
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354805374789a5549af9b0b94683b5b9
+      internalID: -2082174958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Dead_05
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a8e87a6e06764b8a50e21c9a556b4
+      internalID: -1741501406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Dead_06
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb5fd90d6a81540bb7defc378bbfc2
+      internalID: 1890154219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Dead_07
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48a949b583ac0e40a92e3a939f0d8e1
+      internalID: 835530985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Witch_Dead_08
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0f6127ebca91f42b551a5ee0a5979f
+      internalID: -1107407652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Heroine_Witch_Attack_00: -494033442
+      Heroine_Witch_Attack_01: 1555589211
+      Heroine_Witch_Attack_02: 837530754
+      Heroine_Witch_Attack_03: -1230186981
+      Heroine_Witch_Attack_04: -780603301
+      Heroine_Witch_Attack_05: -1254610219
+      Heroine_Witch_Attack_06: 893158019
+      Heroine_Witch_Attack_07: -2065541359
+      Heroine_Witch_Attack_08: 1793383758
+      Heroine_Witch_Attack_09: -748438057
+      Heroine_Witch_Attack_10: -1555753754
+      Heroine_Witch_Attack_11: 895735867
+      Heroine_Witch_Block_00: 815606173
+      Heroine_Witch_Cast1_00: 1678880891
+      Heroine_Witch_Cast1_01: -2006502520
+      Heroine_Witch_Cast1_02: -128211811
+      Heroine_Witch_Cast1_03: -63557074
+      Heroine_Witch_Cast1_04: -939045145
+      Heroine_Witch_Cast1_05: -2016099553
+      Heroine_Witch_Cast1_06: -481061125
+      Heroine_Witch_Cast1_07: -410203624
+      Heroine_Witch_Cast2_00: 146748354
+      Heroine_Witch_Cast2_01: -147468084
+      Heroine_Witch_Cast2_02: 1351715503
+      Heroine_Witch_Cast2_03: 282183153
+      Heroine_Witch_Cast2_04: -1217056047
+      Heroine_Witch_Cast2_05: -1649802031
+      Heroine_Witch_Cast2_06: 2109250974
+      Heroine_Witch_CrouchToIdle_01: -527460772
+      Heroine_Witch_Crouch_00: 1590140521
+      Heroine_Witch_Crouch_01: 724690220
+      Heroine_Witch_Crouch_02: -1262715840
+      Heroine_Witch_Crouch_03: 798720320
+      Heroine_Witch_Crouching_00: 1586456541
+      Heroine_Witch_Dead_00: -1715951071
+      Heroine_Witch_Dead_01: -1069621086
+      Heroine_Witch_Dead_02: 1973039124
+      Heroine_Witch_Dead_03: 267376823
+      Heroine_Witch_Dead_04: -2082174958
+      Heroine_Witch_Dead_05: -1741501406
+      Heroine_Witch_Dead_06: 1890154219
+      Heroine_Witch_Dead_07: 835530985
+      Heroine_Witch_Dead_08: -1107407652
+      Heroine_Witch_Falling_00: 2083206955
+      Heroine_Witch_Falling_01: 505293066
+      Heroine_Witch_Falling_02: 1439862381
+      Heroine_Witch_Hurt_00: 212356840
+      Heroine_Witch_IdleToRun_00: -465161955
+      Heroine_Witch_IdleToRun_01: -1250779009
+      Heroine_Witch_Idle_00: 1936169028
+      Heroine_Witch_Idle_01: 415861797
+      Heroine_Witch_Idle_02: -810404900
+      Heroine_Witch_Idle_03: -152542580
+      Heroine_Witch_Idle_04: -1500591609
+      Heroine_Witch_Idle_05: 1544223787
+      Heroine_Witch_Idle_06: -672771420
+      Heroine_Witch_Idle_07: -1467102645
+      Heroine_Witch_Idle_08: -219441098
+      Heroine_Witch_Idle_09: -778007905
+      Heroine_Witch_Idle_10: -125129749
+      Heroine_Witch_Idle_11: -1708474515
+      Heroine_Witch_Idle_12: 117699247
+      Heroine_Witch_Idle_13: -1365757679
+      Heroine_Witch_Idle_14: 4317740
+      Heroine_Witch_Idle_15: 1720104838
+      Heroine_Witch_Idle_16: -1839438432
+      Heroine_Witch_Idle_17: -1773369041
+      Heroine_Witch_Idle_18: 71593410
+      Heroine_Witch_Idle_19: -773462211
+      Heroine_Witch_Idle_20: -1077923539
+      Heroine_Witch_Idle_21: 309372746
+      Heroine_Witch_Idle_22: 2120138740
+      Heroine_Witch_Idle_23: -407455156
+      Heroine_Witch_Idle_24: -1478636374
+      Heroine_Witch_Idle_25: -1635401543
+      Heroine_Witch_Idle_26: 664138778
+      Heroine_Witch_Idle_27: -929266076
+      Heroine_Witch_Idle_28: 1692276213
+      Heroine_Witch_Idle_29: -2119323493
+      Heroine_Witch_Idle_30: -112679435
+      Heroine_Witch_Idle_31: 659596192
+      Heroine_Witch_Idle_32: 24629813
+      Heroine_Witch_Idle_33: 1158507785
+      Heroine_Witch_Idle_34: 1351762389
+      Heroine_Witch_Idle_35: 34423960
+      Heroine_Witch_Idle_36: -1497475668
+      Heroine_Witch_Idle_37: -603870602
+      Heroine_Witch_Idle_38: 692324624
+      Heroine_Witch_Idle_39: -1156193822
+      Heroine_Witch_Idle_40: -929635673
+      Heroine_Witch_Idle_41: 980350578
+      Heroine_Witch_Idle_42: 336207401
+      Heroine_Witch_Idle_43: 574502349
+      Heroine_Witch_Idle_44: 1224350744
+      Heroine_Witch_Idle_45: -2055178005
+      Heroine_Witch_Idle_46: 1510569583
+      Heroine_Witch_Idle_47: 1149683424
+      Heroine_Witch_Idle_48: 426216919
+      Heroine_Witch_Idle_49: -1017542465
+      Heroine_Witch_Idle_50: 1816040211
+      Heroine_Witch_Idle_51: -1580916141
+      Heroine_Witch_Idle_52: 452255066
+      Heroine_Witch_Idle_53: 653266228
+      Heroine_Witch_Idle_54: 657105023
+      Heroine_Witch_Idle_56: 513329853
+      Heroine_Witch_Jump_00: 313426291
+      Heroine_Witch_Jump_01: 1642697229
+      Heroine_Witch_Jump_02: 1902228350
+      Heroine_Witch_Jump_03: -1520833276
+      Heroine_Witch_Jump_05: -162701991
+      Heroine_Witch_Landing_00: -1722268416
+      Heroine_Witch_Landing_01: 52768322
+      Heroine_Witch_Landing_02: 1605122108
+      Heroine_Witch_Roll_00: 1717126950
+      Heroine_Witch_Roll_01: 2025288412
+      Heroine_Witch_Roll_02: 271836968
+      Heroine_Witch_Roll_03: 429711778
+      Heroine_Witch_Roll_04: 743276068
+      Heroine_Witch_Roll_05: 552045693
+      Heroine_Witch_Roll_06: 1649317233
+      Heroine_Witch_Roll_07: -664348257
+      Heroine_Witch_Roll_08: -1622238503
+      Heroine_Witch_RunToIdle_00: -1229779934
+      Heroine_Witch_RunToIdle_01: -1588969251
+      Heroine_Witch_RunToIdle_02: -521453676
+      Heroine_Witch_RunToIdle_03: -842241153
+      Heroine_Witch_Run_00: -1003808043
+      Heroine_Witch_Run_01: 2000737274
+      Heroine_Witch_Run_02: 1337559626
+      Heroine_Witch_Run_03: -1084985110
+      Heroine_Witch_Run_04: 1288175105
+      Heroine_Witch_Run_05: -825933184
+      Heroine_Witch_Run_06: 67503096
+      Heroine_Witch_Run_07: 417209731
+      Heroine_Witch_Shoot_00: -1476236939
+      Heroine_Witch_Shoot_01: 317138657
+      Heroine_Witch_Shoot_02: -885915504
+      Heroine_Witch_Shoot_03: 2054556664
+      Heroine_Witch_Shoot_04: 635456363
+      Heroine_Witch_Shoot_05: -183005758
+      Heroine_Witch_Shoot_06: 732343246
+      Heroine_Witch_Shoot_07: 1599488766
+      Heroine_Witch_Shoot_08: 364306128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

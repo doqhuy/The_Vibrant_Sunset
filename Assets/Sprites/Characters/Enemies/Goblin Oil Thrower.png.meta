@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 61174a577bb1de14682a77164987ee05
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 302
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9321e5e064c4cf40a9fa1c0c9041a1e
+      internalID: -331722946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 302
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7813c8d30163424199a288798856fcb
+      internalID: -755593739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b513653d5d92449b91be6a37806058
+      internalID: -1118860424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27f4f2bbe997a24dabb7e5350a5d3d4
+      internalID: -1390493663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c6d50b3dd71234da2e1e4ec139aab2
+      internalID: 2132044663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee4d868ebce4b542a19fa984cac80a8
+      internalID: -2011201266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab8a4064bb7c8b4ab25e6e33f276108
+      internalID: -1890835730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 302
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d24f25f53b354ca196271cb88386e
+      internalID: -1192224261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 302
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb006b00e9f3b94f85c0e17ecdd0c78
+      internalID: 1344881547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_11
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 302
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ce65864a914ca48a61365cfc28c870
+      internalID: 1614222847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee72991f8c2c64fa90130e0b827af6
+      internalID: 1384991261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ca0bb537ce9748a1e7b18dd99c6e1
+      internalID: -2061815306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae049acab72dad4086903795695309b
+      internalID: -1449968906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6013b15ae405444c91c7ccb7eeb1df4
+      internalID: 266388343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_16
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e0dfd244e87f42908d4cbc17d6e29
+      internalID: 552011051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_17
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 302
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1e26f95d0d8845969e3d31c6837f2
+      internalID: 293810269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 262
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b027b0f86c69144dbe3fbd0e60b66ed
+      internalID: -981325463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 262
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649bb643539b4a47b55b281a66acbf5
+      internalID: 2044098713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 262
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac120dffd1ce6146a9a5fd5fcc2676e
+      internalID: -177719898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 262
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656cb026be83e540a32512fe45f9a53
+      internalID: 1659488858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 262
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac744fa54714854ca7eddd4a18e565a
+      internalID: -1909724052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 262
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6624007323f1146b90fc3c93c29f54
+      internalID: -2114432927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 262
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcff011857d775498b98df1b79c0bff
+      internalID: -1507929032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 262
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74afb0f2e9b49eb468a98187df5180f5
+      internalID: 1475721830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 262
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0cbbd9b0a144e47abfa4325381b0e4
+      internalID: -1304265870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 262
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb136ace68e4714594e632e0ce9df21
+      internalID: -1492188274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 262
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4a70bc9ed67e14bad33d0e7838c3b8
+      internalID: 474355772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 262
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a704f46829a19a448a4f61f5e6544a56
+      internalID: 1436887174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_30
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 262
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa11aa2e8c35c84a9b1b4d8caa7d7ae
+      internalID: -1635555048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_31
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 262
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89c7d6fdf29e98449e7589c7a030cbb
+      internalID: -1390868127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 262
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beef69ba4959f14c8672aa4078403d5
+      internalID: -1142456085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_33
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 262
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833e32f6063449b44bd2b5629df71eba
+      internalID: -2076713947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 207
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371d6be1b6f192844a4b9f9728be1426
+      internalID: -1556946422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 207
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dbb34711b389140864c95b438d986e
+      internalID: -451034258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 207
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73769511bd7adfd40a8beec6ad2bcc98
+      internalID: 1367600362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 207
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379a4e9816fcc12479f6d7f2e50c3c98
+      internalID: -1903705141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 207
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bca43613b00c140b0cf6bc4a6222d6
+      internalID: -731525950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 207
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243ee266a3901f649a3f903993868c6e
+      internalID: 1997076492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 146
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8086d86fb411749b130995ef834e7b
+      internalID: -1226043337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 146
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc68c4f06e54634f9225b11d2d8655b
+      internalID: -1414526494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 146
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfddbc6455dcda41aad8cc252931166
+      internalID: -1016349499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 146
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f79891d682b2044a44d00937da3c58
+      internalID: -464047943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 146
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9620a8cfdb984be44bd0b2fad517c9d8
+      internalID: -2106382191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 146
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d91f20f7a3a6a142a7a8b6eb805453a
+      internalID: 1488791219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_53
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 146
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bdbbd8b5443714c84a767bcd28b6d4
+      internalID: -1534982619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_54
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 146
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda6377e1e0ed4a4f80e8c8708f0ddb1
+      internalID: 650299822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 113
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a61996121df97408ecd7e8a8254b6f
+      internalID: 66962320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 58
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52052d4207eb9c54ba590307eb01e4b7
+      internalID: -1666024000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e1acc5bdeb4b5438a88ca92a4d5383
+      internalID: 1612719758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dba61b938f0fd4b909deb15aa6b5ad
+      internalID: -676764420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_76
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0255ce70dc9d6ae4081d8ab48a172eb5
+      internalID: 1278372061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_77
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61061ea65867c41a007138e9365f70
+      internalID: 95383250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_78
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe9dec136e809c4181925254b3bb043
+      internalID: 637890133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_79
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a014c0eaf34b29a458c3c653ea08d67c
+      internalID: -281866686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_80
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0402264a2081e479ee530911297f9f
+      internalID: 32955176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Oil Thrower_81
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b5ca7f57c24e4abafa812d32e5781
+      internalID: 1955838331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Goblin Oil Thrower_0: -1743147858
+      Goblin Oil Thrower_1: 2144793356
+      Goblin Oil Thrower_10: 1344881547
+      Goblin Oil Thrower_11: 1614222847
+      Goblin Oil Thrower_12: 1384991261
+      Goblin Oil Thrower_13: -2061815306
+      Goblin Oil Thrower_14: -1449968906
+      Goblin Oil Thrower_15: 266388343
+      Goblin Oil Thrower_16: 552011051
+      Goblin Oil Thrower_17: 293810269
+      Goblin Oil Thrower_18: -981325463
+      Goblin Oil Thrower_19: 2044098713
+      Goblin Oil Thrower_2: -331722946
+      Goblin Oil Thrower_20: -177719898
+      Goblin Oil Thrower_21: 1659488858
+      Goblin Oil Thrower_22: -1909724052
+      Goblin Oil Thrower_23: -2114432927
+      Goblin Oil Thrower_24: -1507929032
+      Goblin Oil Thrower_25: 1475721830
+      Goblin Oil Thrower_26: -1304265870
+      Goblin Oil Thrower_27: -1492188274
+      Goblin Oil Thrower_28: 474355772
+      Goblin Oil Thrower_29: 1436887174
+      Goblin Oil Thrower_3: -755593739
+      Goblin Oil Thrower_30: -1635555048
+      Goblin Oil Thrower_31: -1390868127
+      Goblin Oil Thrower_32: -1142456085
+      Goblin Oil Thrower_33: -2076713947
+      Goblin Oil Thrower_34: 1625772510
+      Goblin Oil Thrower_35: -414688029
+      Goblin Oil Thrower_36: 505527171
+      Goblin Oil Thrower_37: -1556946422
+      Goblin Oil Thrower_38: -451034258
+      Goblin Oil Thrower_39: 1367600362
+      Goblin Oil Thrower_4: -1118860424
+      Goblin Oil Thrower_40: -1903705141
+      Goblin Oil Thrower_41: -731525950
+      Goblin Oil Thrower_42: 1997076492
+      Goblin Oil Thrower_43: -1658767781
+      Goblin Oil Thrower_44: -1264547642
+      Goblin Oil Thrower_45: -953430644
+      Goblin Oil Thrower_46: -1223932010
+      Goblin Oil Thrower_47: -1226043337
+      Goblin Oil Thrower_48: -1414526494
+      Goblin Oil Thrower_49: -1016349499
+      Goblin Oil Thrower_5: -1390493663
+      Goblin Oil Thrower_50: -464047943
+      Goblin Oil Thrower_51: -2106382191
+      Goblin Oil Thrower_52: 1488791219
+      Goblin Oil Thrower_53: -1534982619
+      Goblin Oil Thrower_54: 650299822
+      Goblin Oil Thrower_55: -328693450
+      Goblin Oil Thrower_56: -934757493
+      Goblin Oil Thrower_57: 528828569
+      Goblin Oil Thrower_58: 1501602816
+      Goblin Oil Thrower_59: 66962320
+      Goblin Oil Thrower_6: 2132044663
+      Goblin Oil Thrower_60: -501771598
+      Goblin Oil Thrower_61: -594156246
+      Goblin Oil Thrower_62: 57939691
+      Goblin Oil Thrower_63: 1082288484
+      Goblin Oil Thrower_64: 841173515
+      Goblin Oil Thrower_65: -1472244999
+      Goblin Oil Thrower_66: 1230210806
+      Goblin Oil Thrower_67: 367725131
+      Goblin Oil Thrower_68: 496306932
+      Goblin Oil Thrower_69: -1666024000
+      Goblin Oil Thrower_7: -2011201266
+      Goblin Oil Thrower_70: 1909790594
+      Goblin Oil Thrower_71: -174441720
+      Goblin Oil Thrower_72: 954387401
+      Goblin Oil Thrower_73: 831531978
+      Goblin Oil Thrower_74: 1612719758
+      Goblin Oil Thrower_75: -676764420
+      Goblin Oil Thrower_76: 1278372061
+      Goblin Oil Thrower_77: 95383250
+      Goblin Oil Thrower_78: 637890133
+      Goblin Oil Thrower_79: -281866686
+      Goblin Oil Thrower_8: -1890835730
+      Goblin Oil Thrower_80: 32955176
+      Goblin Oil Thrower_81: 1955838331
+      Goblin Oil Thrower_9: -1192224261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

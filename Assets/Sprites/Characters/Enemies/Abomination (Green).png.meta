@@ -1,0 +1,1834 @@
+fileFormatVersion: 2
+guid: 37f3d4cf5958ff346bfeb2e767e0655e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Abomination (Green)_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 343
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fdf0dcdfca611418749375af99b6bb
+      internalID: -1549302749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 343
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059f39f397c25744a8f449e90fc4a5c
+      internalID: 631539373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 343
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a378fdc27d2c1144a2b7fe3541021bd
+      internalID: 591417842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 343
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f14dae2cf919c4ba5dd34bb70ff1bf
+      internalID: -767779413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 343
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd1a6a172710304d9389b3077a1e974
+      internalID: 258594255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 343
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c5d1dbd0692e4fa3b3677fc2ae7f6
+      internalID: -1860027622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 343
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdc10513d222624896146da872e962c
+      internalID: -1307091582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 343
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e892d4990326df4f8ccb4af25b281c8
+      internalID: -1044045171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 343
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc314864e9dda64c8a658836e52f345
+      internalID: 1854922926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305542ddead99e24ea7d75c8961ac3bd
+      internalID: 734930550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 343
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7032ee6c6a26e4582dbcb087d4905c
+      internalID: 463294054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 343
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced1b6871b6e1f4292ceec467ee3714
+      internalID: 456302796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 343
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c538177279c52e044b95bcf9c38cdbf0
+      internalID: -1269348365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 343
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0994ac44ac07e4ebdcbbb458a83233
+      internalID: -1480439336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 343
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e96e9a6559988f40b693e9497839dda
+      internalID: -1100810208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 343
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d5cb35fad51614786ab1344f72f5d9
+      internalID: -1836708596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 343
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d0a716583ddf44a683bf738d9eed8
+      internalID: -1635348687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 343
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6a0204c174334bbefd5109c9a7bb3
+      internalID: -848002450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_20
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 343
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec9167a8c567d649a4269ccf93e66f5
+      internalID: 287018769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 343
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134059a29524ea8438e01426834d1682
+      internalID: 382617171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 343
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc4d41aee4f5c4988a47c2a32abdfe
+      internalID: 696832267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 343
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c12d52253c520e42aa38085afce3b45
+      internalID: -615376265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_24
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 343
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d7d50f713e95e4a908d15145190b44
+      internalID: -647603389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_25
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 343
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e204c9755cd3e499967a36182b5807
+      internalID: -1622960130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 281
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf09ad8e608c04b8e9353bd8601abf
+      internalID: 263352381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 281
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cfe47ec264cab4abfcdd8ee59c380a
+      internalID: -1009128087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 281
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19d1e8b7aa5f284e80967a76ba37c75
+      internalID: -2025203643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 281
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec924452a2538142b3c32ef8071e8f2
+      internalID: -1241131751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_33
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 281
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364fe5eb480f0247929fef738669f78
+      internalID: -1785462455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 281
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530370b4e1f562647af9e73f8615df90
+      internalID: -170164708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 212
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b79d4d35efca48abe325bd980596b
+      internalID: 2144717293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 212
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e72c4fdfad55478ca932235882cb1
+      internalID: 1451756785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 212
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf83a927ffd2b224cacba32e241d0bd5
+      internalID: -1801807554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 212
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e035030713ef40af0ab2b07f4469e
+      internalID: 629898121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 212
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30be28352b0c94ea2385e4927d348e
+      internalID: 480692056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 212
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861eaf5e526fa6b4e8be39f82f6db899
+      internalID: -756931159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 212
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd36764de3f39244bb6b3e7eff75b39
+      internalID: 2121497540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 212
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98c3fb1fd18d434bb217614faa1a412
+      internalID: 1944292862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_47
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 212
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d9bebbe29e3b84ea24308e147020cb
+      internalID: 925736733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_48
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 212
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd926345631d602468669651f76574ce
+      internalID: 996140164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_49
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 212
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a260496d81c12d043a9c25c104a0fab7
+      internalID: -484325155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_50
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 212
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc51acb61d17542a4a1493cf0d3a33
+      internalID: 1379169309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_51
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 212
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dd36e024d097c4d90ee80cadbbab07
+      internalID: -1748682732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_52
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 212
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fbf49b37daab241a610301ced3e922
+      internalID: -605022270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57089ed4d7bb67d48a0c4514e9161553
+      internalID: -1302046406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d340149b3ff4974a9647c5225db32a7
+      internalID: 569047819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_66
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 127
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187c463cd0decf48b83543271762a2a
+      internalID: 1888103846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_67
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 127
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edc76d9152a4ee45a86e7da2c053d74
+      internalID: -408084653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5e9fb74bf2ecc41a7a35963331c31a
+      internalID: -2074331270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_69
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 127
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cbef1004cd80247b78d3c520bdaaec
+      internalID: 881091343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 127
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505b7f4acb705aa41881bd524e167dad
+      internalID: -991894116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_71
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 127
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f5103cc7ebb484490bf13178683f5c
+      internalID: -1342843883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 127
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd0ad89a37131e4f9867bc358632dfe
+      internalID: 21986819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_73
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 127
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b48cd8b946efb74ea1ed721d7cd2951
+      internalID: -1423787492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_74
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be6ef9cc03ba6b4b8ff00d70b8d1c58
+      internalID: -474496333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97732174a67c4774cb7683e2e26e6149
+      internalID: -668689635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_76
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 127
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fe950a72d824b42a009e4d6adfa531
+      internalID: -1503102458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_77
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 127
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a495332d7bdb2ed43bba387641d585e5
+      internalID: -2129754674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_78
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 127
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d2f646cebdb3c4180f27bccbd23ba7
+      internalID: -1515595616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_79
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 127
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2de49045a8604a43a0f576fdd6ed53d
+      internalID: -1585025933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e22bee4810b07040bc58239e794bca0
+      internalID: 1580329519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a45ac59676362419eb2bf6d4b1dfbb
+      internalID: -1045015731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_95
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4973f333c739b744db852f1385fa676c
+      internalID: -548084935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_96
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad527d06bfa0a64c84d0112534cc388
+      internalID: 955462877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_97
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd90ce2fe2cc3464797ea4086dd87519
+      internalID: -1364190668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_98
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e2d9f18f98c240b63ef8cd7188e41
+      internalID: 1867099209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57f76f56e4ac664a846d318ee230e76
+      internalID: 449617990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_100
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d55c871f56eef4db03ef6d05c47ef8
+      internalID: -1345902290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_101
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae8fa4794766ea4b98767010509c820
+      internalID: -1750068212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_102
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1cc9140e5ee2642b27e00440ea0e3e
+      internalID: -1330733852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53425523128dd649b5527324dce79d5
+      internalID: 996955829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07c440b836e1ea488b6407a8a2645ea
+      internalID: 388569295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96dfce313568d940bae6990ab73ecee
+      internalID: 1245322629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1011ea77f5a182044881196d95c14de2
+      internalID: 2013587471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c58f5d63a03fc42822889629142525
+      internalID: 1865994538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 70
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa25196f3511e734ab6e6145b86c7bf4
+      internalID: 750296009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abomination (Green)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e47ca8c1c6624aa7932bd9b51a73e
+      internalID: 358914272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Abomination (Green)_0: 996955829
+      Abomination (Green)_1: 388569295
+      Abomination (Green)_10: 1854922926
+      Abomination (Green)_100: -1345902290
+      Abomination (Green)_101: -1750068212
+      Abomination (Green)_102: -1330733852
+      Abomination (Green)_11: 734930550
+      Abomination (Green)_12: 463294054
+      Abomination (Green)_13: 456302796
+      Abomination (Green)_14: -1269348365
+      Abomination (Green)_15: -1480439336
+      Abomination (Green)_16: -1100810208
+      Abomination (Green)_17: -1836708596
+      Abomination (Green)_18: -1635348687
+      Abomination (Green)_19: -848002450
+      Abomination (Green)_2: -1549302749
+      Abomination (Green)_20: 287018769
+      Abomination (Green)_21: 382617171
+      Abomination (Green)_22: 696832267
+      Abomination (Green)_23: -615376265
+      Abomination (Green)_24: -647603389
+      Abomination (Green)_25: -1622960130
+      Abomination (Green)_26: 1245322629
+      Abomination (Green)_27: 2013587471
+      Abomination (Green)_28: 1865994538
+      Abomination (Green)_29: 263352381
+      Abomination (Green)_3: 631539373
+      Abomination (Green)_30: -1009128087
+      Abomination (Green)_31: -2025203643
+      Abomination (Green)_32: -1241131751
+      Abomination (Green)_33: -1785462455
+      Abomination (Green)_34: -170164708
+      Abomination (Green)_35: 750296009
+      Abomination (Green)_36: 358914272
+      Abomination (Green)_37: -1821903341
+      Abomination (Green)_38: 1450395755
+      Abomination (Green)_39: 2144717293
+      Abomination (Green)_4: 591417842
+      Abomination (Green)_40: 1451756785
+      Abomination (Green)_41: -1801807554
+      Abomination (Green)_42: 629898121
+      Abomination (Green)_43: 480692056
+      Abomination (Green)_44: -756931159
+      Abomination (Green)_45: 2121497540
+      Abomination (Green)_46: 1944292862
+      Abomination (Green)_47: 925736733
+      Abomination (Green)_48: 996140164
+      Abomination (Green)_49: -484325155
+      Abomination (Green)_5: -767779413
+      Abomination (Green)_50: 1379169309
+      Abomination (Green)_51: -1748682732
+      Abomination (Green)_52: -605022270
+      Abomination (Green)_53: -1476710934
+      Abomination (Green)_54: -1282877442
+      Abomination (Green)_55: -870354215
+      Abomination (Green)_56: -1302046406
+      Abomination (Green)_57: 476854907
+      Abomination (Green)_58: -2136094077
+      Abomination (Green)_59: -148702479
+      Abomination (Green)_6: 258594255
+      Abomination (Green)_60: 285873462
+      Abomination (Green)_61: -1496383627
+      Abomination (Green)_62: -1023715718
+      Abomination (Green)_63: -1005117689
+      Abomination (Green)_64: -102219751
+      Abomination (Green)_65: 569047819
+      Abomination (Green)_66: 1888103846
+      Abomination (Green)_67: -408084653
+      Abomination (Green)_68: -2074331270
+      Abomination (Green)_69: 881091343
+      Abomination (Green)_7: -1860027622
+      Abomination (Green)_70: -991894116
+      Abomination (Green)_71: -1342843883
+      Abomination (Green)_72: 21986819
+      Abomination (Green)_73: -1423787492
+      Abomination (Green)_74: -474496333
+      Abomination (Green)_75: -668689635
+      Abomination (Green)_76: -1503102458
+      Abomination (Green)_77: -2129754674
+      Abomination (Green)_78: -1515595616
+      Abomination (Green)_79: -1585025933
+      Abomination (Green)_8: -1307091582
+      Abomination (Green)_80: -1539341616
+      Abomination (Green)_81: 1941150201
+      Abomination (Green)_82: -1368408694
+      Abomination (Green)_83: -589287709
+      Abomination (Green)_84: -522004192
+      Abomination (Green)_85: -1921012362
+      Abomination (Green)_86: -1766764600
+      Abomination (Green)_87: -108616679
+      Abomination (Green)_88: -914088685
+      Abomination (Green)_89: 1580329519
+      Abomination (Green)_9: -1044045171
+      Abomination (Green)_90: -1950393603
+      Abomination (Green)_91: -1635476680
+      Abomination (Green)_92: 1480882786
+      Abomination (Green)_93: 1832168813
+      Abomination (Green)_94: -1045015731
+      Abomination (Green)_95: -548084935
+      Abomination (Green)_96: 955462877
+      Abomination (Green)_97: -1364190668
+      Abomination (Green)_98: 1867099209
+      Abomination (Green)_99: 449617990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2099 @@
+fileFormatVersion: 2
+guid: 831fb5b488328154a8f67e71769d7155
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: redWitchanimations_Frame_0
+    originalName: 
+    pivot: {x: 0.96165645, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 949
+      y: 163
+      width: 326
+      height: 106
+    spriteID: c41003579e876b745847840e547bf1b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 949, y: 163}
+  - name: redWitchanimations_Frame_1
+    originalName: 
+    pivot: {x: 0.95936394, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 330
+      width: 283
+      height: 114
+    spriteID: 495f3b13a618587489ec7d0069a0e73e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: 330}
+  - name: redWitchanimations_Frame_2
+    originalName: 
+    pivot: {x: 0.9581818, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 563
+      width: 275
+      height: 79
+    spriteID: e5fc9554f01f5d14fb5dd555bd119fbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 563}
+  - name: redWitchanimations_Frame_3
+    originalName: 
+    pivot: {x: 0.9550781, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 953
+      y: 658
+      width: 256
+      height: 78
+    spriteID: 7a883b251ec4bb14294191b07456670b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 953, y: 658}
+  - name: redWitchanimations_Frame_4
+    originalName: 
+    pivot: {x: 0.9532967, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 921
+      y: 477
+      width: 182
+      height: 53
+    spriteID: e6574aeff6cb09c4090f3f199b1b0ade
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 921, y: 477}
+  - name: redWitchanimations_Frame_5
+    originalName: 
+    pivot: {x: 0.95853657, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 401
+      y: 759
+      width: 205
+      height: 63
+    spriteID: 9ebf3664fd0708147b700a223da779f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 401, y: 759}
+  - name: redWitchanimations_Frame_6
+    originalName: 
+    pivot: {x: 0.9617117, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1217
+      y: 658
+      width: 222
+      height: 87
+    spriteID: 3c88d4e9855fe6b439de2a1a3eb9f394
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1217, y: 658}
+  - name: redWitchanimations_Frame_7
+    originalName: 
+    pivot: {x: 0.95814985, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 658
+      width: 227
+      height: 93
+    spriteID: 92bf261115430624f9efd9a5de1025b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 658}
+  - name: redWitchanimations_Frame_8
+    originalName: 
+    pivot: {x: 0.9541485, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 658
+      width: 229
+      height: 93
+    spriteID: f7034d6e9e42737498b4ac99a7ff16ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 658}
+  - name: redWitchanimations_Frame_9
+    originalName: 
+    pivot: {x: 0.9452381, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 759
+      width: 210
+      height: 94
+    spriteID: 38ba94d6456a8c04187358eb96770ea8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 759}
+  - name: redWitchanimations_Frame_10
+    originalName: 
+    pivot: {x: 0.94390243, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1664
+      y: 658
+      width: 205
+      height: 88
+    spriteID: 7b186528aca1b7647ab547ce03a2c43f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1664, y: 658}
+  - name: redWitchanimations_Frame_11
+    originalName: 
+    pivot: {x: 0.9401914, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1447
+      y: 658
+      width: 209
+      height: 88
+    spriteID: 8288280e59a928e41ad8827cec71146f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1447, y: 658}
+  - name: redWitchanimations_Frame_12
+    originalName: 
+    pivot: {x: 0.9407582, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1093
+      y: 563
+      width: 211
+      height: 68
+    spriteID: 156075147d538804da590b160a4f9d0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1093, y: 563}
+  - name: redWitchanimations_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 668
+      y: 4
+      width: 349
+      height: 106
+    spriteID: c029f0a5e98123e4d91e97d1c2cd9c16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 668, y: 4}
+  - name: redWitchanimations_Frame_14
+    originalName: 
+    pivot: {x: 0.4315961, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 163
+      width: 307
+      height: 114
+    spriteID: 89565508cad4ad944a7f0a23435225e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 163}
+  - name: redWitchanimations_Frame_15
+    originalName: 
+    pivot: {x: 0.41638798, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 545
+      y: 563
+      width: 299
+      height: 53
+    spriteID: 23cf2f83fb2808040935d8a3af2ee98e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 545, y: 563}
+  - name: redWitchanimations_Frame_16
+    originalName: 
+    pivot: {x: 0.3767857, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1312
+      y: 563
+      width: 280
+      height: 51
+    spriteID: d4b8fb382a27e2e4d802d161818e67f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1312, y: 563}
+  - name: redWitchanimations_Frame_17
+    originalName: 
+    pivot: {x: 0.16428572, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 529
+      y: 477
+      width: 210
+      height: 50
+    spriteID: abcf94fae06248f4e9f1a2d2461ef548
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 529, y: 477}
+  - name: redWitchanimations_Frame_18
+    originalName: 
+    pivot: {x: 0.24678113, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1638
+      y: 759
+      width: 233
+      height: 50
+    spriteID: f895a8b948ca6454db1fade352fa145c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1638, y: 759}
+  - name: redWitchanimations_Frame_19
+    originalName: 
+    pivot: {x: 0.29799998, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1138
+      y: 759
+      width: 250
+      height: 50
+    spriteID: 8651dbd366b1fca458a269899302bdc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1138, y: 759}
+  - name: redWitchanimations_Frame_20
+    originalName: 
+    pivot: {x: 0.30905512, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 614
+      y: 759
+      width: 254
+      height: 50
+    spriteID: ab5280b40834ef448a009c2fe7ef754a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 614, y: 759}
+  - name: redWitchanimations_Frame_21
+    originalName: 
+    pivot: {x: 0.31299213, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 876
+      y: 759
+      width: 254
+      height: 50
+    spriteID: 23458478aeeb8bc4e946f4845bd34fc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 876, y: 759}
+  - name: redWitchanimations_Frame_22
+    originalName: 
+    pivot: {x: 0.25427353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1396
+      y: 759
+      width: 234
+      height: 50
+    spriteID: 0d8d8907d953631498f1fdcd68a10247
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1396, y: 759}
+  - name: redWitchanimations_Frame_23
+    originalName: 
+    pivot: {x: 0.74068767, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1025
+      y: 4
+      width: 349
+      height: 106
+    spriteID: e20fb0b301d3cc042af16e33ff90566c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1025, y: 4}
+  - name: redWitchanimations_Frame_24
+    originalName: 
+    pivot: {x: 0.70521176, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 634
+      y: 163
+      width: 307
+      height: 114
+    spriteID: 8a101f7bd56df334d84c3ec48b8cc82b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 634, y: 163}
+  - name: redWitchanimations_Frame_25
+    originalName: 
+    pivot: {x: 0.69732445, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 477
+      width: 299
+      height: 78
+    spriteID: 0678f08af63ecf6449d264403e992365
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 477}
+  - name: redWitchanimations_Frame_26
+    originalName: 
+    pivot: {x: 0.6767857, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1600
+      y: 563
+      width: 280
+      height: 51
+    spriteID: e2cb47e9fc0296c438617c8c67c2c6c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1600, y: 563}
+  - name: redWitchanimations_Frame_27
+    originalName: 
+    pivot: {x: 0.5642857, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 311
+      y: 477
+      width: 210
+      height: 53
+    spriteID: 82dec1a598388734d92151e63524d8d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 311, y: 477}
+  - name: redWitchanimations_Frame_28
+    originalName: 
+    pivot: {x: 0.6072961, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 852
+      y: 563
+      width: 233
+      height: 63
+    spriteID: ceef2f7ae7b723440901ca1c786e9d17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 852, y: 563}
+  - name: redWitchanimations_Frame_29
+    originalName: 
+    pivot: {x: 0.634, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 563
+      width: 250
+      height: 87
+    spriteID: 20b4f3bdaafd3794a943ab7302232667
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 563}
+  - name: redWitchanimations_Frame_30
+    originalName: 
+    pivot: {x: 0.6397638, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1286
+      y: 330
+      width: 254
+      height: 93
+    spriteID: c0d2e0a080ce2834fb0cb5d0f3bdd39f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1286, y: 330}
+  - name: redWitchanimations_Frame_31
+    originalName: 
+    pivot: {x: 0.6437008, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1548
+      y: 330
+      width: 254
+      height: 92
+    spriteID: 3de2a40f771f09a4d92372666f10d7a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1548, y: 330}
+  - name: redWitchanimations_Frame_32
+    originalName: 
+    pivot: {x: 0.6132479, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1810
+      y: 330
+      width: 234
+      height: 94
+    spriteID: 32bb22959766fdc45a87f6dbe649c752
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1810, y: 330}
+  - name: redWitchanimations_Frame_33
+    originalName: 
+    pivot: {x: 0.6048035, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 716
+      y: 658
+      width: 229
+      height: 88
+    spriteID: 0350b6430596dc34d858015a556ba1eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 716, y: 658}
+  - name: redWitchanimations_Frame_34
+    originalName: 
+    pivot: {x: 0.60991377, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 658
+      width: 232
+      height: 88
+    spriteID: 0acade121bfba9c48a44a10212f55e29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 476, y: 658}
+  - name: redWitchanimations_Frame_35
+    originalName: 
+    pivot: {x: 0.88580245, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1877
+      y: 658
+      width: 162
+      height: 68
+    spriteID: fbf2c2de4a9f9a94b88b3f81ad8c201a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1877, y: 658}
+  - name: redWitchanimations_Frame_36
+    originalName: 
+    pivot: {x: 0.88253015, y: -0.032258064}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 747
+      y: 477
+      width: 166
+      height: 62
+    spriteID: c8db0c330245b68419c35eb8287a8b86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 747, y: 477}
+  - name: redWitchanimations_Frame_37
+    originalName: 
+    pivot: {x: 0.88529414, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1111
+      y: 477
+      width: 170
+      height: 49
+    spriteID: 656a4edd6f2376c4abd75d190f44956e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1111, y: 477}
+  - name: redWitchanimations_Frame_38
+    originalName: 
+    pivot: {x: 0.44285715, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1957
+      y: 4
+      width: 35
+      height: 45
+    spriteID: c690641d1891f934a902d80ec585f82f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1957, y: 4}
+  - name: redWitchanimations_Frame_39
+    originalName: 
+    pivot: {x: 0.43103445, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2000
+      y: 60
+      width: 29
+      height: 44
+    spriteID: 4e360fda56f69464ca9efb348321aacf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2000, y: 60}
+  - name: redWitchanimations_Frame_40
+    originalName: 
+    pivot: {x: 0.40322578, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1957
+      y: 113
+      width: 31
+      height: 41
+    spriteID: 270866c0e7879cb4ea1f6f0bccc6b4de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1957, y: 113}
+  - name: redWitchanimations_Frame_41
+    originalName: 
+    pivot: {x: 0.38888887, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1916
+      y: 814
+      width: 27
+      height: 39
+    spriteID: 2ef659add610f0b428284658e60f6b8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1916, y: 814}
+  - name: redWitchanimations_Frame_42
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1951
+      y: 759
+      width: 25
+      height: 50
+    spriteID: 4bf98ff4a4f5d9444830ef877df9cc27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1951, y: 759}
+  - name: redWitchanimations_Frame_43
+    originalName: 
+    pivot: {x: 0.54347825, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2021
+      y: 563
+      width: 23
+      height: 51
+    spriteID: b6df5702a3eb790479464c2d892ed6fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2021, y: 563}
+  - name: redWitchanimations_Frame_44
+    originalName: 
+    pivot: {x: 0.54347825, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1984
+      y: 759
+      width: 23
+      height: 51
+    spriteID: 5859df10aa7b06a42984d5907bbf1a96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1984, y: 759}
+  - name: redWitchanimations_Frame_45
+    originalName: 
+    pivot: {x: 0.54347825, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2015
+      y: 759
+      width: 23
+      height: 51
+    spriteID: b19ac2fa1375a1a4aaa98e2d7fb77c60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2015, y: 759}
+  - name: redWitchanimations_Frame_46
+    originalName: 
+    pivot: {x: 0.54347825, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1289
+      y: 477
+      width: 23
+      height: 50
+    spriteID: a643731372162784f9901a71a10db4a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1289, y: 477}
+  - name: redWitchanimations_Frame_47
+    originalName: 
+    pivot: {x: 0.46296293, y: -0.08510639}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1916
+      y: 759
+      width: 27
+      height: 47
+    spriteID: 9ac44ce8be0f745458cff8f1436883a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1916, y: 759}
+  - name: redWitchanimations_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2000
+      y: 4
+      width: 29
+      height: 48
+    spriteID: 0792c919614bb304b93dd2dc8e9b296e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2000, y: 4}
+  - name: redWitchanimations_Frame_49
+    originalName: 
+    pivot: {x: 0.46774197, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1957
+      y: 57
+      width: 31
+      height: 48
+    spriteID: f507105069ee0fb4a97ac160541f53f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1957, y: 57}
+  - name: redWitchanimations_Frame_50
+    originalName: 
+    pivot: {x: 0.48333335, y: -0.01818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1919
+      y: 68
+      width: 30
+      height: 55
+    spriteID: 40cf2de68ac8d0042984c86dc61ffa3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1919, y: 68}
+  - name: redWitchanimations_Frame_51
+    originalName: 
+    pivot: {x: 0.48333335, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1983
+      y: 563
+      width: 30
+      height: 56
+    spriteID: cfef36a4f85ba5f409ce26373757c972
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1983, y: 563}
+  - name: redWitchanimations_Frame_52
+    originalName: 
+    pivot: {x: 0.48333335, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1919
+      y: 4
+      width: 30
+      height: 56
+    spriteID: 94e2bbc2440098b459eb7e4a961ac49c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1919, y: 4}
+  - name: redWitchanimations_Frame_53
+    originalName: 
+    pivot: {x: 0.46551728, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1879
+      y: 759
+      width: 29
+      height: 44
+    spriteID: dcf2a19acdffa7f42abd4b2f78927a25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1879, y: 759}
+  - name: redWitchanimations_Frame_54
+    originalName: 
+    pivot: {x: 0.35386822, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 349
+      height: 151
+    spriteID: fb97ef510dc580245a4b1b26279e5c02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: redWitchanimations_Frame_55
+    originalName: 
+    pivot: {x: 0.26547232, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 163
+      width: 307
+      height: 159
+    spriteID: 6f5128a682ff8bd45b85933983715ba3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 163}
+  - name: redWitchanimations_Frame_56
+    originalName: 
+    pivot: {x: 0.24581939, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 361
+      y: 4
+      width: 299
+      height: 124
+    spriteID: 4465893c602c8e544a8d7d73229471f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 4}
+  - name: redWitchanimations_Frame_57
+    originalName: 
+    pivot: {x: 0.19464284, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1283
+      y: 163
+      width: 280
+      height: 123
+    spriteID: a051523579eba14409110ff142b16c4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1283, y: 163}
+  - name: redWitchanimations_Frame_58
+    originalName: 
+    pivot: {x: 0.056250002, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1038
+      y: 330
+      width: 240
+      height: 108
+    spriteID: 15f475e5e1177c34bafcb91b783a1a54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1038, y: 330}
+  - name: redWitchanimations_Frame_59
+    originalName: 
+    pivot: {x: 0.11867704, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1571
+      y: 163
+      width: 257
+      height: 132
+    spriteID: 4babc91d5ed5b9b42a311c48c10d3ad6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1571, y: 163}
+  - name: redWitchanimations_Frame_60
+    originalName: 
+    pivot: {x: 0.13218391, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1382
+      y: 4
+      width: 261
+      height: 138
+    spriteID: 268cb969c7dfce04087f63bb15374945
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1382, y: 4}
+  - name: redWitchanimations_Frame_61
+    originalName: 
+    pivot: {x: 0.1326923, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1651
+      y: 4
+      width: 260
+      height: 138
+    spriteID: cd727b9de178e454ab49f0b09aa23bfc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1651, y: 4}
+  - name: redWitchanimations_Frame_62
+    originalName: 
+    pivot: {x: 0.06818182, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 330
+      width: 242
+      height: 139
+    spriteID: 25f85f90565bdb443b4901df2f9e4c8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 330}
+  - name: redWitchanimations_Frame_63
+    originalName: 
+    pivot: {x: 0.048523206, y: -0.108333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 793
+      y: 330
+      width: 237
+      height: 120
+    spriteID: 4927da7b329d63047bd79ab06eeb6d87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 793, y: 330}
+  - name: redWitchanimations_Frame_64
+    originalName: 
+    pivot: {x: 0.06041667, y: -0.07258064}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 545
+      y: 330
+      width: 240
+      height: 124
+    spriteID: a30dd24cda884864686b5e8a178a9f42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 545, y: 330}
+  - name: redWitchanimations_Frame_65
+    originalName: 
+    pivot: {x: 0.08048781, y: -0.07619049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1836
+      y: 163
+      width: 205
+      height: 105
+    spriteID: 965eb0546d749eb46aaa8a197e411b6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1836, y: 163}
+  - name: redWitchanimations_Frame_66
+    originalName: 
+    pivot: {x: 0.11011905, y: -0.058252428}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 861
+      width: 168
+      height: 103
+    spriteID: a8bef09106afa6c438cb2973a4984912
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 861}
+  - name: redWitchanimations_Frame_67
+    originalName: 
+    pivot: {x: 0.12573099, y: -0.04444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 222
+      y: 759
+      width: 171
+      height: 90
+    spriteID: f3d231316af78bf4b9b22a5add6f767c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 222, y: 759}
+  - name: redWitchanimations_Frame_68
+    originalName: 
+    pivot: {x: 0.25609756, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1934
+      y: 563
+      width: 41
+      height: 50
+    spriteID: c45e3dac13a5dd04f895ce05ed81eb25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1934, y: 563}
+  - name: redWitchanimations_Frame_69
+    originalName: 
+    pivot: {x: 0.32894734, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1888
+      y: 563
+      width: 38
+      height: 56
+    spriteID: a794cb3c6a5e8ab4199b020d5771c6f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1888, y: 563}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1118690805
+    name: redWitchanimations
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: redWitchanimations_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -279
+        y: 0
+        width: 326
+        height: 106
+      spriteId: c41003579e876b745847840e547bf1b6
+    - name: redWitchanimations_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -237
+        y: 0
+        width: 283
+        height: 114
+      spriteId: 495f3b13a618587489ec7d0069a0e73e
+    - name: redWitchanimations_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -229
+        y: 0
+        width: 275
+        height: 79
+      spriteId: e5fc9554f01f5d14fb5dd555bd119fbe
+    - name: redWitchanimations_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -210
+        y: 0
+        width: 256
+        height: 78
+      spriteId: 7a883b251ec4bb14294191b07456670b
+    - name: redWitchanimations_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -139
+        y: 0
+        width: 182
+        height: 53
+      spriteId: e6574aeff6cb09c4090f3f199b1b0ade
+    - name: redWitchanimations_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -162
+        y: 0
+        width: 205
+        height: 63
+      spriteId: 9ebf3664fd0708147b700a223da779f3
+    - name: redWitchanimations_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -179
+        y: 0
+        width: 222
+        height: 87
+      spriteId: 3c88d4e9855fe6b439de2a1a3eb9f394
+    - name: redWitchanimations_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -183
+        y: 0
+        width: 227
+        height: 93
+      spriteId: 92bf261115430624f9efd9a5de1025b2
+    - name: redWitchanimations_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -184
+        y: 0
+        width: 229
+        height: 93
+      spriteId: f7034d6e9e42737498b4ac99a7ff16ee
+    - name: redWitchanimations_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -164
+        y: 0
+        width: 210
+        height: 94
+      spriteId: 38ba94d6456a8c04187358eb96770ea8
+    - name: redWitchanimations_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -159
+        y: 0
+        width: 205
+        height: 88
+      spriteId: 7b186528aca1b7647ab547ce03a2c43f
+    - name: redWitchanimations_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -162
+        y: 0
+        width: 209
+        height: 88
+      spriteId: 8288280e59a928e41ad8827cec71146f
+    - name: redWitchanimations_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -164
+        y: 0
+        width: 211
+        height: 68
+      spriteId: 156075147d538804da590b160a4f9d0a
+    - name: redWitchanimations_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -140
+        y: 0
+        width: 349
+        height: 106
+      spriteId: c029f0a5e98123e4d91e97d1c2cd9c16
+    - name: redWitchanimations_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -98
+        y: 0
+        width: 307
+        height: 114
+      spriteId: 89565508cad4ad944a7f0a23435225e3
+    - name: redWitchanimations_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -90
+        y: 0
+        width: 299
+        height: 53
+      spriteId: 23cf2f83fb2808040935d8a3af2ee98e
+    - name: redWitchanimations_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -71
+        y: 0
+        width: 280
+        height: 51
+      spriteId: d4b8fb382a27e2e4d802d161818e67f5
+    - name: redWitchanimations_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 210
+        height: 50
+      spriteId: abcf94fae06248f4e9f1a2d2461ef548
+    - name: redWitchanimations_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -23
+        y: 0
+        width: 233
+        height: 50
+      spriteId: f895a8b948ca6454db1fade352fa145c
+    - name: redWitchanimations_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -40
+        y: 0
+        width: 250
+        height: 50
+      spriteId: 8651dbd366b1fca458a269899302bdc4
+    - name: redWitchanimations_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: -44
+        y: 0
+        width: 254
+        height: 50
+      spriteId: ab5280b40834ef448a009c2fe7ef754a
+    - name: redWitchanimations_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: -45
+        y: 0
+        width: 254
+        height: 50
+      spriteId: 23458478aeeb8bc4e946f4845bd34fc2
+    - name: redWitchanimations_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: -25
+        y: 0
+        width: 234
+        height: 50
+      spriteId: 0d8d8907d953631498f1fdcd68a10247
+    - name: redWitchanimations_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: -224
+        y: 0
+        width: 349
+        height: 106
+      spriteId: e20fb0b301d3cc042af16e33ff90566c
+    - name: redWitchanimations_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: -182
+        y: 0
+        width: 307
+        height: 114
+      spriteId: 8a101f7bd56df334d84c3ec48b8cc82b
+    - name: redWitchanimations_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: -174
+        y: 0
+        width: 299
+        height: 78
+      spriteId: 0678f08af63ecf6449d264403e992365
+    - name: redWitchanimations_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: -155
+        y: 0
+        width: 280
+        height: 51
+      spriteId: e2cb47e9fc0296c438617c8c67c2c6c6
+    - name: redWitchanimations_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: -84
+        y: 0
+        width: 210
+        height: 53
+      spriteId: 82dec1a598388734d92151e63524d8d6
+    - name: redWitchanimations_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: -107
+        y: 0
+        width: 233
+        height: 63
+      spriteId: ceef2f7ae7b723440901ca1c786e9d17
+    - name: redWitchanimations_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: -124
+        y: 0
+        width: 250
+        height: 87
+      spriteId: 20b4f3bdaafd3794a943ab7302232667
+    - name: redWitchanimations_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: -128
+        y: 0
+        width: 254
+        height: 93
+      spriteId: c0d2e0a080ce2834fb0cb5d0f3bdd39f
+    - name: redWitchanimations_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: -129
+        y: 0
+        width: 254
+        height: 92
+      spriteId: 3de2a40f771f09a4d92372666f10d7a8
+    - name: redWitchanimations_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: -109
+        y: 0
+        width: 234
+        height: 94
+      spriteId: 32bb22959766fdc45a87f6dbe649c752
+    - name: redWitchanimations_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: -104
+        y: 0
+        width: 229
+        height: 88
+      spriteId: 0350b6430596dc34d858015a556ba1eb
+    - name: redWitchanimations_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: -107
+        y: 0
+        width: 232
+        height: 88
+      spriteId: 0acade121bfba9c48a44a10212f55e29
+    - name: redWitchanimations_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: -109
+        y: 0
+        width: 162
+        height: 68
+      spriteId: fbf2c2de4a9f9a94b88b3f81ad8c201a
+    - name: redWitchanimations_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: -112
+        y: 2
+        width: 166
+        height: 62
+      spriteId: c8db0c330245b68419c35eb8287a8b86
+    - name: redWitchanimations_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: -116
+        y: 0
+        width: 170
+        height: 49
+      spriteId: 656a4edd6f2376c4abd75d190f44956e
+    - name: redWitchanimations_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 19
+        y: 3
+        width: 35
+        height: 45
+      spriteId: c690641d1891f934a902d80ec585f82f
+    - name: redWitchanimations_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 22
+        y: 0
+        width: 29
+        height: 44
+      spriteId: 4e360fda56f69464ca9efb348321aacf
+    - name: redWitchanimations_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 22
+        y: 0
+        width: 31
+        height: 41
+      spriteId: 270866c0e7879cb4ea1f6f0bccc6b4de
+    - name: redWitchanimations_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 24
+        y: 0
+        width: 27
+        height: 39
+      spriteId: 2ef659add610f0b428284658e60f6b8a
+    - name: redWitchanimations_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 22
+        y: 0
+        width: 25
+        height: 50
+      spriteId: 4bf98ff4a4f5d9444830ef877df9cc27
+    - name: redWitchanimations_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 22
+        y: 0
+        width: 23
+        height: 51
+      spriteId: b6df5702a3eb790479464c2d892ed6fc
+    - name: redWitchanimations_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 22
+        y: 0
+        width: 23
+        height: 51
+      spriteId: 5859df10aa7b06a42984d5907bbf1a96
+    - name: redWitchanimations_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 22
+        y: 0
+        width: 23
+        height: 51
+      spriteId: b19ac2fa1375a1a4aaa98e2d7fb77c60
+    - name: redWitchanimations_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 22
+        y: 0
+        width: 23
+        height: 50
+      spriteId: a643731372162784f9901a71a10db4a7
+    - name: redWitchanimations_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 22
+        y: 4
+        width: 27
+        height: 47
+      spriteId: 9ac44ce8be0f745458cff8f1436883a0
+    - name: redWitchanimations_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 20
+        y: 4
+        width: 29
+        height: 48
+      spriteId: 0792c919614bb304b93dd2dc8e9b296e
+    - name: redWitchanimations_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 20
+        y: 3
+        width: 31
+        height: 48
+      spriteId: f507105069ee0fb4a97ac160541f53f4
+    - name: redWitchanimations_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 20
+        y: 1
+        width: 30
+        height: 55
+      spriteId: 40cf2de68ac8d0042984c86dc61ffa3f
+    - name: redWitchanimations_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 20
+        y: 0
+        width: 30
+        height: 56
+      spriteId: cfef36a4f85ba5f409ce26373757c972
+    - name: redWitchanimations_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 20
+        y: 0
+        width: 30
+        height: 56
+      spriteId: 94e2bbc2440098b459eb7e4a961ac49c
+    - name: redWitchanimations_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 21
+        y: 0
+        width: 29
+        height: 44
+      spriteId: dcf2a19acdffa7f42abd4b2f78927a25
+    - name: redWitchanimations_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: -89
+        y: 0
+        width: 349
+        height: 151
+      spriteId: fb97ef510dc580245a4b1b26279e5c02
+    - name: redWitchanimations_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: -47
+        y: 0
+        width: 307
+        height: 159
+      spriteId: 6f5128a682ff8bd45b85933983715ba3
+    - name: redWitchanimations_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: -39
+        y: 0
+        width: 299
+        height: 124
+      spriteId: 4465893c602c8e544a8d7d73229471f2
+    - name: redWitchanimations_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: -20
+        y: 0
+        width: 280
+        height: 123
+      spriteId: a051523579eba14409110ff142b16c4d
+    - name: redWitchanimations_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 21
+        y: 0
+        width: 240
+        height: 108
+      spriteId: 15f475e5e1177c34bafcb91b783a1a54
+    - name: redWitchanimations_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 4
+        y: 0
+        width: 257
+        height: 132
+      spriteId: 4babc91d5ed5b9b42a311c48c10d3ad6
+    - name: redWitchanimations_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 0
+        y: 0
+        width: 261
+        height: 138
+      spriteId: 268cb969c7dfce04087f63bb15374945
+    - name: redWitchanimations_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 0
+        y: 0
+        width: 260
+        height: 138
+      spriteId: cd727b9de178e454ab49f0b09aa23bfc
+    - name: redWitchanimations_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 18
+        y: 0
+        width: 242
+        height: 139
+      spriteId: 25f85f90565bdb443b4901df2f9e4c8f
+    - name: redWitchanimations_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 23
+        y: 13
+        width: 237
+        height: 120
+      spriteId: 4927da7b329d63047bd79ab06eeb6d87
+    - name: redWitchanimations_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 20
+        y: 9
+        width: 240
+        height: 124
+      spriteId: a30dd24cda884864686b5e8a178a9f42
+    - name: redWitchanimations_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 18
+        y: 8
+        width: 205
+        height: 105
+      spriteId: 965eb0546d749eb46aaa8a197e411b6d
+    - name: redWitchanimations_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 16
+        y: 6
+        width: 168
+        height: 103
+      spriteId: a8bef09106afa6c438cb2973a4984912
+    - name: redWitchanimations_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 13
+        y: 4
+        width: 171
+        height: 90
+      spriteId: f3d231316af78bf4b9b22a5add6f767c
+    - name: redWitchanimations_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 24
+        y: 0
+        width: 41
+        height: 50
+      spriteId: c45e3dac13a5dd04f895ce05ed81eb25
+    - name: redWitchanimations_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 22
+        y: 0
+        width: 38
+        height: 56
+      spriteId: a794cb3c6a5e8ab4199b020d5771c6f8
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 69, y: 56}

@@ -1,0 +1,1540 @@
+fileFormatVersion: 2
+guid: 516f77f9d24ef7d41a040c1fa549ea3c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demon Assassin_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 674
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9e7bcf7666d99438f45498cf65a885
+      internalID: 1245362097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 674
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7210567d9b52248a7c8ec7da961933
+      internalID: -1629946763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 674
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959715443443a6444859c81e28936993
+      internalID: -2099811328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 674
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9834718eaa834e8b1b305771ad9bd
+      internalID: 1624831016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 674
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6fa732c61e62648bd1be1a752afb65
+      internalID: -386723431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 674
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f991ffda6ac4a9d47a8b48303186b1cf
+      internalID: 2075681165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 674
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8e268632a1724f88c9cabaaff94c8
+      internalID: -698922391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 674
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13a871d10961b6488e9eb39e6206ce3
+      internalID: -1917400940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 674
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a356a4760e85c9b4c9066e1e45381743
+      internalID: 102261930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 674
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859eb69d23166344a625c34a8eecca9
+      internalID: 733267113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 674
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec6ee29d5078b41a9ac85fe9a70747
+      internalID: 1779415358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 674
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc08eeb4b73a4748ad30551ffaed2d3
+      internalID: -1070306777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 674
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669cdf5e6dd6b342a0a90f9ced3e5aa
+      internalID: -42853174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_15
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 674
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc3294b4b941b4f91ef76a2b64084e
+      internalID: 211322190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 674
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62585d8fb71953e4d9af743e5c28cc8e
+      internalID: 1767731929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_17
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 674
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232a50b96ee251140ba4334b420f3002
+      internalID: 746932856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 618
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c231de471d251e40941180704b7db9f
+      internalID: -2070972958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 618
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8ea516c9546047a01b7a6b268623a
+      internalID: -471333233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 562
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e1a0e073954ef4fa316a7583a45999
+      internalID: -953291243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 494
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab1194add0f6a54f8743c9f26b27412
+      internalID: 311484696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 494
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1020ab1029c643b730c736ea743d2
+      internalID: -49549641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 494
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07cd6556d0b1e243aab5281c4e23fcc
+      internalID: -2066771029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 494
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604d44f542d694489c51ee3e39c3288
+      internalID: -2049175464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 494
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75d1678a9f74c7468f98396d85886c5
+      internalID: 946725302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_48
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 494
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2da2a031d27df4db7a9dc0b59a8310
+      internalID: -1155760077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_49
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 494
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03563d47d55b9aa4b98f535a7d9d64da
+      internalID: -1754230787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_50
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 494
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ad1b3a9180214bb1689862279a2eb
+      internalID: -626359490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 494
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56184697605d9454e8a3fd40552430c7
+      internalID: -1394681052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 494
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174031f8ee09c344cba904c85a7a51d7
+      internalID: 668118058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 494
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95a3bd0f14990d44898491fc33414c6
+      internalID: 451353329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_54
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 494
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99f8c02f8e7ff644b27c912a0b83110
+      internalID: 534812126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_55
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 494
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093fe3996d230814ba7d4698c52d41a0
+      internalID: 1294086909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_56
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 494
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29233020eb114cc4cba121925d63295f
+      internalID: 1821642701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 440
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a918c4beba67bf8478ca8990fccbfe3a
+      internalID: 2090590325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 440
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e443e8a589b02a4a93bf3fdd8685d1a
+      internalID: -688985203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 440
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e18c75b7a55f64581ca397efea337a
+      internalID: 1540246492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 440
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8d262fb9061f24da51ad48dffbed7e
+      internalID: 301829348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 440
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baac7a65120ca274997f11f7e9e76808
+      internalID: 456753533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 440
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a62922647fafe40a575757cf395389
+      internalID: -429843945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_63
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 440
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af29aabe22a5bf40ade9798a11e2282
+      internalID: -1425265330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_64
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 440
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3da47c8b4b11a4496fb54916bdf7a4
+      internalID: -1859867228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_65
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 440
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988eeb3549814dd49a6be91e292ac366
+      internalID: -1688504858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 440
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e366c8db71ccfdf4b85102b87f44556d
+      internalID: 14279177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 377
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417e35ee461e8d04f9f260c624448471
+      internalID: -1739778895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 377
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8f80244b2ea2341a77960b42355c30
+      internalID: -1025159064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 377
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c23b307f474c8342b53d77bd5691563
+      internalID: 28575072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 377
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e1f61af40482646958980664b65b7c
+      internalID: 746498464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 377
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c296f172b7f24448ce0162060515d4
+      internalID: -1707887575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_75
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 377
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8858ad4e738aa714d81250e939dc59d5
+      internalID: -1048380587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 311
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3785dec864d9142b3489d8994b6b5c
+      internalID: -198452979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 311
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34be38a052e2eff4e9236beaf9820720
+      internalID: -1577463829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 311
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e386ecfd0f6dd4b865a2bc00a7e005
+      internalID: -1820905535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_83
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 311
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c614dac5ae2fab498a82c06af6927e4
+      internalID: -538871241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_84
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 311
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e9e17c84d820488d44486d80a7196
+      internalID: -1959273012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_85
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 311
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6b4f3231b739a47844914042e928c6
+      internalID: -134437265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 250
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef43b8aa83144498daec58bfcc3659
+      internalID: 2058029716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 178
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6af5c5897073614183270e28f5706f6
+      internalID: -241794417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_116
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 114
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf17baee04aff54f8504394d55a23f7
+      internalID: 651584038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be525322a8193db48932aab71fc84afb
+      internalID: -230959596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_121
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 17
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3406c875604b4cb64388f541a6d8a
+      internalID: -1771567090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_122
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 17
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51785262e42f1b428bea03ebdd2deb6
+      internalID: -1841175931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon Assassin_123
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132cd24b356d9de48a14fc22e78dfc60
+      internalID: -164070376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Demon Assassin_0: 1947484276
+      Demon Assassin_1: -367695904
+      Demon Assassin_10: 102261930
+      Demon Assassin_100: 999044708
+      Demon Assassin_101: -228218400
+      Demon Assassin_102: -1454086157
+      Demon Assassin_103: -183478100
+      Demon Assassin_104: -2096941770
+      Demon Assassin_105: -241794417
+      Demon Assassin_106: -149903682
+      Demon Assassin_107: -188585286
+      Demon Assassin_108: 572190586
+      Demon Assassin_109: -1567419263
+      Demon Assassin_11: 733267113
+      Demon Assassin_110: 142340111
+      Demon Assassin_111: 1305666962
+      Demon Assassin_112: -49593678
+      Demon Assassin_113: -2012819703
+      Demon Assassin_114: -1160633392
+      Demon Assassin_115: 1240917536
+      Demon Assassin_116: 651584038
+      Demon Assassin_117: 1540723779
+      Demon Assassin_118: -230959596
+      Demon Assassin_119: -1602666180
+      Demon Assassin_12: 1779415358
+      Demon Assassin_120: 695335002
+      Demon Assassin_121: -1771567090
+      Demon Assassin_122: -1841175931
+      Demon Assassin_123: -164070376
+      Demon Assassin_13: -1070306777
+      Demon Assassin_14: -42853174
+      Demon Assassin_15: 211322190
+      Demon Assassin_16: 1767731929
+      Demon Assassin_17: 746932856
+      Demon Assassin_18: 61918702
+      Demon Assassin_19: -6038882
+      Demon Assassin_2: 1245362097
+      Demon Assassin_20: -7018192
+      Demon Assassin_21: 1089444477
+      Demon Assassin_22: 2101227519
+      Demon Assassin_23: -2070972958
+      Demon Assassin_24: -471333233
+      Demon Assassin_25: -1675569417
+      Demon Assassin_26: 1759885134
+      Demon Assassin_27: -648962435
+      Demon Assassin_28: 2079165064
+      Demon Assassin_29: -446582622
+      Demon Assassin_3: -1629946763
+      Demon Assassin_30: 1937408155
+      Demon Assassin_31: 2080528990
+      Demon Assassin_32: -2035387979
+      Demon Assassin_33: 1683054529
+      Demon Assassin_34: 1465410357
+      Demon Assassin_35: -1907573592
+      Demon Assassin_36: 1556982878
+      Demon Assassin_37: 1755305168
+      Demon Assassin_38: 297348692
+      Demon Assassin_39: -953291243
+      Demon Assassin_4: -2099811328
+      Demon Assassin_40: -1814382448
+      Demon Assassin_41: -1780215224
+      Demon Assassin_42: 629965021
+      Demon Assassin_43: 311484696
+      Demon Assassin_44: -49549641
+      Demon Assassin_45: -2066771029
+      Demon Assassin_46: -2049175464
+      Demon Assassin_47: 946725302
+      Demon Assassin_48: -1155760077
+      Demon Assassin_49: -1754230787
+      Demon Assassin_5: 1624831016
+      Demon Assassin_50: -626359490
+      Demon Assassin_51: -1394681052
+      Demon Assassin_52: 668118058
+      Demon Assassin_53: 451353329
+      Demon Assassin_54: 534812126
+      Demon Assassin_55: 1294086909
+      Demon Assassin_56: 1821642701
+      Demon Assassin_57: 2090590325
+      Demon Assassin_58: -688985203
+      Demon Assassin_59: 1540246492
+      Demon Assassin_6: -386723431
+      Demon Assassin_60: 301829348
+      Demon Assassin_61: 456753533
+      Demon Assassin_62: -429843945
+      Demon Assassin_63: -1425265330
+      Demon Assassin_64: -1859867228
+      Demon Assassin_65: -1688504858
+      Demon Assassin_66: 14279177
+      Demon Assassin_67: -200648704
+      Demon Assassin_68: -873242055
+      Demon Assassin_69: -1496149303
+      Demon Assassin_7: 2075681165
+      Demon Assassin_70: -1739778895
+      Demon Assassin_71: -1025159064
+      Demon Assassin_72: 28575072
+      Demon Assassin_73: 746498464
+      Demon Assassin_74: -1707887575
+      Demon Assassin_75: -1048380587
+      Demon Assassin_76: -1126599558
+      Demon Assassin_77: 161597751
+      Demon Assassin_78: 118180302
+      Demon Assassin_79: 1162810726
+      Demon Assassin_8: -698922391
+      Demon Assassin_80: -198452979
+      Demon Assassin_81: -1577463829
+      Demon Assassin_82: -1820905535
+      Demon Assassin_83: -538871241
+      Demon Assassin_84: -1959273012
+      Demon Assassin_85: -134437265
+      Demon Assassin_86: -14006625
+      Demon Assassin_87: -1210634848
+      Demon Assassin_88: 1223836159
+      Demon Assassin_89: 171880933
+      Demon Assassin_9: -1917400940
+      Demon Assassin_90: -1956488586
+      Demon Assassin_91: 1421640333
+      Demon Assassin_92: -2019329263
+      Demon Assassin_93: -527788680
+      Demon Assassin_94: 1505839704
+      Demon Assassin_95: -1276860369
+      Demon Assassin_96: 1192533725
+      Demon Assassin_97: -1082630703
+      Demon Assassin_98: 1940894151
+      Demon Assassin_99: 2058029716
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

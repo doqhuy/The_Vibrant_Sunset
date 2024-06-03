@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: 1b8a634de4a863f4c8c2cf576cb8846f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Succubus_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 692
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cabdf5078c6dd44ae69d774f784d7c
+      internalID: -809813146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 692
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c913182bf605d4cace38932c94e9c4
+      internalID: 447538472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 692
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3422a96973e75c342964fc161e4582a6
+      internalID: -1092849925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 692
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0015947d5ca7fec47a15c700d41d23f5
+      internalID: 498598563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 692
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a61194e2e0a764596dda5202dbbabe
+      internalID: 757694832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 692
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700d9b9f7773c324aafd33cab2646b19
+      internalID: -31819723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 692
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2438ded52fc1c74aa0421c99e08e9e3
+      internalID: -1644620112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 692
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7758b4f30f6bad40b14277e406cb75f
+      internalID: -385027053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 692
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddc11416623cd84ea654901f2fc1eda
+      internalID: 700905788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 692
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a1bb1f47222b4b8740e780cffdd3e
+      internalID: -2081065774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 692
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64f9c97d755a6547b931d2c4c99cf44
+      internalID: -1969032333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_13
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 692
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d80e2efc870aea44ac8c4621891ac5a
+      internalID: 876476318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 692
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c546408f4021b91458d3ae743e36d826
+      internalID: -454579510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 635
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f6304c2f366345ab93584ec1327f4
+      internalID: -1586643348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 635
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350512cf9c4bec84abc53f481715bfc4
+      internalID: 1539798365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 635
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776534875b7b0f34cb8405301a83d890
+      internalID: -1488988301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 635
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4be11064d038841a0d109659a85857
+      internalID: 1816318726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 635
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39447be1d50566c4ca6c1098177066eb
+      internalID: -463161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 635
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaae2222805a6449ac45fc371dd73f4
+      internalID: 127421653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 635
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea67d3f776693f545bcdb7e2f050542b
+      internalID: 1260135463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 635
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181c2e8e7be409f459135c1bd56f182f
+      internalID: 1863182950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 635
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e690edaf4551a15438e3d43df5482695
+      internalID: -251928998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 635
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733783733eaaffe45aeba8ba85bed890
+      internalID: -1062819183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 635
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d9e962dd564f641af6c640c4ec6bb3
+      internalID: -422792782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 557
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae39aa9d299b943a0bb040b0ea71e8
+      internalID: 208736349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 558
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886af43639b763d4c99372659ebf23b7
+      internalID: -973565522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 550
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d5be98b82325448edaef1dd05fb2a
+      internalID: -1660939013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 555
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d34f058293cd54a9a294d8a3ec85b7
+      internalID: 1714606303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 553
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c616297571524324299cc841632970fa
+      internalID: 124003055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 557
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d251f9d6a6933c04590eabc4ca83c88d
+      internalID: 478562950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_36
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 547
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283219e0a63a6fa4aabf0439fef1df91
+      internalID: -848363203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_37
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 553
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d9060d02a2d7a4cb553f4f9a81726f
+      internalID: -535189415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_38
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 553
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e56bb7e3c725c439c694b3b5d1f541
+      internalID: 1536137348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 481
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d695b540b63997449332e6c21f54046
+      internalID: -530593865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 413
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9abe30d80ca32940a4a2ee508a0a2fd
+      internalID: 1848293881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 342
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a1ee3c06c50d14f90bc42c634295ca
+      internalID: -741012753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 344
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb5db7278761644a87535fe0f900b2
+      internalID: 1265189216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 345
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6674eb3139608af4f8ccf001dcb682bd
+      internalID: 1701840723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_67
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 351
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474ed1cc647e23f4d91e7312dba36d01
+      internalID: 1417645638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 355
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83def7c51775344458a0205bb92b1811
+      internalID: 251511243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_69
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 345
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed31894e9972dc40ae194b76ab0d6d0
+      internalID: 662386460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 344
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf11897614cee9d44a382b9a99d78748
+      internalID: 1467246512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_71
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 344
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3d89ea3e29714ab9c4e58460d3b8d
+      internalID: 1019915024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_72
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 344
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f906b2db9bb85c44ba2487e94fe8b6d7
+      internalID: 336798337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_73
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 344
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be6f1a6819ac1458e10ec35f3ff652
+      internalID: -181196017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_74
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 344
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d26c221de4e7e42be7a12a12511505
+      internalID: 1059717569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_75
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 344
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15014acb19625d54484a81a2dc53772f
+      internalID: 366556149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 273
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a123d010ed3d341bb32fbdb219abe4
+      internalID: 1697168260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_91
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 273
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bdef1fa8b3a2a4dbaee3a413a98299
+      internalID: 725950550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 202
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf91af72695b64592a4dfe1046fd34
+      internalID: -601493753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_99
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 204
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d48c317f468a7428a0e56a8b27bb5d
+      internalID: -1435837226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 133
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c0bce0a3508743ad38948debec462
+      internalID: -906062115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_121
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e612ba7eef7348b7291d08f324826
+      internalID: -1645503975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_126
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9338ad80ba03948408109794f1b5c840
+      internalID: -93208735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7badbe25626d7a84faa2e0e597b1e8b9
+      internalID: -1192233577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Succubus_128
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf10551aeb6f8c4d9bedb8db3e5fb81
+      internalID: 1368375283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Succubus_0: 1133704798
+      Succubus_1: -1690692188
+      Succubus_10: 700905788
+      Succubus_100: 319068760
+      Succubus_101: -1967500932
+      Succubus_102: -975381764
+      Succubus_103: -914217797
+      Succubus_104: -1399308426
+      Succubus_105: 838536605
+      Succubus_106: 94794414
+      Succubus_107: -1996145834
+      Succubus_108: -1793957045
+      Succubus_109: 344357186
+      Succubus_11: -2081065774
+      Succubus_110: -906062115
+      Succubus_111: -124245916
+      Succubus_112: -325740864
+      Succubus_113: 1473380057
+      Succubus_114: 1233401564
+      Succubus_115: -1590754845
+      Succubus_116: 103244683
+      Succubus_117: -1413577986
+      Succubus_118: -377389186
+      Succubus_119: -382211545
+      Succubus_12: -1969032333
+      Succubus_120: 711926975
+      Succubus_121: -1645503975
+      Succubus_122: 1678898713
+      Succubus_123: -1025889271
+      Succubus_124: 1405549721
+      Succubus_125: -1369400015
+      Succubus_126: -93208735
+      Succubus_127: -1192233577
+      Succubus_128: 1368375283
+      Succubus_13: 876476318
+      Succubus_14: -454579510
+      Succubus_15: -1586643348
+      Succubus_16: 1539798365
+      Succubus_17: -1488988301
+      Succubus_18: 1816318726
+      Succubus_19: -463161
+      Succubus_2: -809813146
+      Succubus_20: 127421653
+      Succubus_21: 1260135463
+      Succubus_22: 1863182950
+      Succubus_23: -251928998
+      Succubus_24: -1062819183
+      Succubus_25: -422792782
+      Succubus_26: -252407865
+      Succubus_27: -44357123
+      Succubus_28: -394872758
+      Succubus_29: -932936087
+      Succubus_3: 447538472
+      Succubus_30: 208736349
+      Succubus_31: -973565522
+      Succubus_32: -1660939013
+      Succubus_33: 1714606303
+      Succubus_34: 124003055
+      Succubus_35: 478562950
+      Succubus_36: -848363203
+      Succubus_37: -535189415
+      Succubus_38: 1536137348
+      Succubus_39: -571833305
+      Succubus_4: -1092849925
+      Succubus_40: -1853466207
+      Succubus_41: -1507410514
+      Succubus_42: 1529997900
+      Succubus_43: -77021340
+      Succubus_44: 1313196190
+      Succubus_45: 1241269783
+      Succubus_46: -1437144923
+      Succubus_47: 1256750100
+      Succubus_48: 476169019
+      Succubus_49: -2005086477
+      Succubus_5: 498598563
+      Succubus_50: 352165005
+      Succubus_51: 22075259
+      Succubus_52: -530593865
+      Succubus_53: -338128316
+      Succubus_54: 1105670649
+      Succubus_55: 1269598211
+      Succubus_56: -1146232619
+      Succubus_57: 1100267498
+      Succubus_58: 1848293881
+      Succubus_59: 378001565
+      Succubus_6: 757694832
+      Succubus_60: 1494195481
+      Succubus_61: 1275677534
+      Succubus_62: 151346667
+      Succubus_63: -1070318628
+      Succubus_64: -741012753
+      Succubus_65: 1265189216
+      Succubus_66: 1701840723
+      Succubus_67: 1417645638
+      Succubus_68: 251511243
+      Succubus_69: 662386460
+      Succubus_7: -31819723
+      Succubus_70: 1467246512
+      Succubus_71: 1019915024
+      Succubus_72: 336798337
+      Succubus_73: -181196017
+      Succubus_74: 1059717569
+      Succubus_75: 366556149
+      Succubus_76: 1133695090
+      Succubus_77: -2087177483
+      Succubus_78: 713445048
+      Succubus_79: -43192462
+      Succubus_8: -1644620112
+      Succubus_80: 343351160
+      Succubus_81: -261245396
+      Succubus_82: 2024335603
+      Succubus_83: -1057624236
+      Succubus_84: -497689338
+      Succubus_85: 1575596113
+      Succubus_86: -2007755182
+      Succubus_87: 271983747
+      Succubus_88: 37831278
+      Succubus_89: -135306194
+      Succubus_9: -385027053
+      Succubus_90: 1697168260
+      Succubus_91: 725950550
+      Succubus_92: -56691383
+      Succubus_93: -1839483938
+      Succubus_94: 222101726
+      Succubus_95: 457314330
+      Succubus_96: -1600067204
+      Succubus_97: -868948929
+      Succubus_98: -601493753
+      Succubus_99: -1435837226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

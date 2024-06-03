@@ -1,0 +1,1468 @@
+fileFormatVersion: 2
+guid: 5fab6a9f17d407d4fa053511d43afb23
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 336
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ac0d3973b28fe4e894fc633697dfa3
+      internalID: 1994626233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 336
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c890f63bf13b6e14585a2760262ead3e
+      internalID: -883249448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 336
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e867f225be724dbb420e2c4fffba2
+      internalID: 1138082542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 336
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13306f8b8e077442b63771a5ce151d2
+      internalID: -376556729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 336
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880228fe4ffee75439958fc60779c2dc
+      internalID: 1197896451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 336
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e3ca6a89f476e439f93dee8927561d
+      internalID: -2061681615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 336
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e75fd27f3f10f34789ad8da6f274607
+      internalID: 1724028001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 336
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15880089646d47f44b6efb498fccc576
+      internalID: 196350551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 336
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371276b71185f34459bec58e2fc7c935
+      internalID: 701634861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 336
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39341cc5e713da9489bb70f4583b9cc4
+      internalID: -366787572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 336
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb62cd846dde2184fb836e8bd8187839
+      internalID: 2014542030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 336
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d7594364f931044bcbffb531f8b9b2
+      internalID: -928784844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 336
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44f50ef4165e143bf539737267d61f
+      internalID: 1249589681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_15
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 336
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7f37e387397bd438eaaf85b3223367
+      internalID: 73851284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 336
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d3517400efd714a8b68d9620571b19
+      internalID: 317271493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 336
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad19e62843956874abaff817a2bb5ca5
+      internalID: 886237038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1223775d976630d4fbf6d64658c2e3da
+      internalID: 482236346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99d1a57ce396cd43a8ebf35019f64b7
+      internalID: -1089075532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 301
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b1f74e93b8f1347b8c9cd6a18ff8b5
+      internalID: 1557735473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 301
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0235ce962478fb43bf719ee790ee3a5
+      internalID: -108937840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 301
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf1149c0f8929644b5e3c5f4e649b3c
+      internalID: -945386148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 301
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca39d4a5b20ff4f449a931f213c40324
+      internalID: -1977643774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 301
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a000a946a9b7bd4eab9577ab7cd3479
+      internalID: -319714577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f374776b927d4294398b944ceadf1062
+      internalID: -352077725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_26
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142edaa4acf5f4245a0de948ac10c011
+      internalID: 921132972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44543e204648a0441bfe3155102c23dc
+      internalID: -556850836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198abce88b1d56c41bee87197ceff96b
+      internalID: 1306510615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e083a25fdcba5b14899719496b33bd5e
+      internalID: 607542989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec737b295a50984bb96c970173734ba
+      internalID: -2029051081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_31
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528bec8d53e8a594ea1217b4a8513223
+      internalID: -1413506200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_32
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601ff301442a75548b64146422f4425b
+      internalID: 935048656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_33
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 301
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf27a900bc5b24790537cd57852713
+      internalID: -1686109857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 251
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9607da833e663004f9fa3c306b1e10bf
+      internalID: 1494370971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 251
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c157ed8d794397e48ba12c18fa59192c
+      internalID: 2005920244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 251
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3b92a0da0b7984cb0af28b71cbbfef
+      internalID: -1382651286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 251
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff51adffc084bda439135d0d294d65f4
+      internalID: 1752771954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 251
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d7ca19292dcdf44adc52e83fbd0b26
+      internalID: 1777612765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 251
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693e2e526e29c944cb4bd2d660056b16
+      internalID: -6280878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 202
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1674763166afeb049aa0277d541889d1
+      internalID: -1749622229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 202
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597511fb50e54874582eb4da4af0ab96
+      internalID: -2094972247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 202
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def862fec9099c245883e3f667bea35e
+      internalID: -472911246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 202
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ac14c0eaf611b499fe9fd1cd45c49b
+      internalID: -213719380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 202
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaa5bb83ef22604c86a219ddba527d8
+      internalID: -1448201507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 202
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41c69ac25a78e742bc9f7d1d035cf39
+      internalID: 496242542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 154
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b174f00cc83c004cbdc71b6a68705d6
+      internalID: -284986994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 154
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34ef684cdbe88644bbd6bbb46876bfd
+      internalID: -479739216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 154
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b75c9be533da745b1fb541a569d341
+      internalID: -1959318270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 154
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18fbd063561be8409a5a7c3d394e957
+      internalID: 197727777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 154
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a43bdce712121a4ea497e7df73e9044
+      internalID: 1504154974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 154
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27a52d7b83802645bbe27a9d77f7c08
+      internalID: -1607576227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc36a3695719cf48b9683605f737331
+      internalID: -341236563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f195c9fc7c1c154cba244d498834723
+      internalID: -1730869908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb340aa61909a548b55b7f22ce7ff30
+      internalID: 110700653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_87
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141256693834e64cbc298a092b21998
+      internalID: 967013017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a675b97d92ec6b449837d6fa297e354d
+      internalID: 299195036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_89
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c321bcec95d5f428bd9fab9ffa964a
+      internalID: -1143282026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_90
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32ff686295a2ab47abd1c3fa0aa16bf
+      internalID: 2095827464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_91
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2ef89a637e7ca468a53724df7c0dc3
+      internalID: 164181376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_92
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e112c36fc61d53499aed6830420dadf
+      internalID: -1158300541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Attacker Dagger_93
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f9e40eaa33df48945a283197e8f02
+      internalID: 1246826885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Goblin Attacker Dagger_0: 2084888347
+      Goblin Attacker Dagger_1: 1481594752
+      Goblin Attacker Dagger_10: 701634861
+      Goblin Attacker Dagger_11: -366787572
+      Goblin Attacker Dagger_12: 2014542030
+      Goblin Attacker Dagger_13: -928784844
+      Goblin Attacker Dagger_14: 1249589681
+      Goblin Attacker Dagger_15: 73851284
+      Goblin Attacker Dagger_16: 317271493
+      Goblin Attacker Dagger_17: 886237038
+      Goblin Attacker Dagger_18: 482236346
+      Goblin Attacker Dagger_19: -1089075532
+      Goblin Attacker Dagger_2: 1994626233
+      Goblin Attacker Dagger_20: 1557735473
+      Goblin Attacker Dagger_21: -108937840
+      Goblin Attacker Dagger_22: -945386148
+      Goblin Attacker Dagger_23: -1977643774
+      Goblin Attacker Dagger_24: -319714577
+      Goblin Attacker Dagger_25: -352077725
+      Goblin Attacker Dagger_26: 921132972
+      Goblin Attacker Dagger_27: -556850836
+      Goblin Attacker Dagger_28: 1306510615
+      Goblin Attacker Dagger_29: 607542989
+      Goblin Attacker Dagger_3: -883249448
+      Goblin Attacker Dagger_30: -2029051081
+      Goblin Attacker Dagger_31: -1413506200
+      Goblin Attacker Dagger_32: 935048656
+      Goblin Attacker Dagger_33: -1686109857
+      Goblin Attacker Dagger_34: 1246395790
+      Goblin Attacker Dagger_35: -1901937164
+      Goblin Attacker Dagger_36: -1720078019
+      Goblin Attacker Dagger_37: 1494370971
+      Goblin Attacker Dagger_38: 2005920244
+      Goblin Attacker Dagger_39: -1382651286
+      Goblin Attacker Dagger_4: 1138082542
+      Goblin Attacker Dagger_40: 1752771954
+      Goblin Attacker Dagger_41: 1777612765
+      Goblin Attacker Dagger_42: -6280878
+      Goblin Attacker Dagger_43: -528427267
+      Goblin Attacker Dagger_44: -899160492
+      Goblin Attacker Dagger_45: -860805789
+      Goblin Attacker Dagger_46: -1749622229
+      Goblin Attacker Dagger_47: -2094972247
+      Goblin Attacker Dagger_48: -472911246
+      Goblin Attacker Dagger_49: -213719380
+      Goblin Attacker Dagger_5: -376556729
+      Goblin Attacker Dagger_50: -1448201507
+      Goblin Attacker Dagger_51: 496242542
+      Goblin Attacker Dagger_52: -1769897670
+      Goblin Attacker Dagger_53: 353723939
+      Goblin Attacker Dagger_54: -1967700899
+      Goblin Attacker Dagger_55: 1614212006
+      Goblin Attacker Dagger_56: -284986994
+      Goblin Attacker Dagger_57: -479739216
+      Goblin Attacker Dagger_58: -1959318270
+      Goblin Attacker Dagger_59: 197727777
+      Goblin Attacker Dagger_6: 1197896451
+      Goblin Attacker Dagger_60: 1504154974
+      Goblin Attacker Dagger_61: -1607576227
+      Goblin Attacker Dagger_62: 1711057681
+      Goblin Attacker Dagger_63: 541439004
+      Goblin Attacker Dagger_64: 287396539
+      Goblin Attacker Dagger_65: 889788732
+      Goblin Attacker Dagger_66: -274468755
+      Goblin Attacker Dagger_67: 78513228
+      Goblin Attacker Dagger_68: -1913519066
+      Goblin Attacker Dagger_69: -333173449
+      Goblin Attacker Dagger_7: -2061681615
+      Goblin Attacker Dagger_70: -1157285190
+      Goblin Attacker Dagger_71: -341236563
+      Goblin Attacker Dagger_72: 333738312
+      Goblin Attacker Dagger_73: -980333185
+      Goblin Attacker Dagger_74: 131512898
+      Goblin Attacker Dagger_75: 1747972529
+      Goblin Attacker Dagger_76: -90496291
+      Goblin Attacker Dagger_77: 1019696107
+      Goblin Attacker Dagger_78: 151039370
+      Goblin Attacker Dagger_79: -439715994
+      Goblin Attacker Dagger_8: 1724028001
+      Goblin Attacker Dagger_80: 2004032762
+      Goblin Attacker Dagger_81: -1730869908
+      Goblin Attacker Dagger_82: 774557798
+      Goblin Attacker Dagger_83: -134243609
+      Goblin Attacker Dagger_84: -50229584
+      Goblin Attacker Dagger_85: -617341344
+      Goblin Attacker Dagger_86: 110700653
+      Goblin Attacker Dagger_87: 967013017
+      Goblin Attacker Dagger_88: 299195036
+      Goblin Attacker Dagger_89: -1143282026
+      Goblin Attacker Dagger_9: 196350551
+      Goblin Attacker Dagger_90: 2095827464
+      Goblin Attacker Dagger_91: 164181376
+      Goblin Attacker Dagger_92: -1158300541
+      Goblin Attacker Dagger_93: 1246826885
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

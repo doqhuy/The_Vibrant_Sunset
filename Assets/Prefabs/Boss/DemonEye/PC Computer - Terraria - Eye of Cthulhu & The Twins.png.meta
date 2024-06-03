@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 0c45b22f51c3d5e409bf1ab3295abb3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 559
+        width: 129
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e5be62ac6ac449bf1e8dc5be94445
+      internalID: 1053593771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 226
+        width: 130
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bbc4a935abaa84a8eccbb541336402
+      internalID: -1170319200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 393
+        width: 125
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e08b4fc745ba45aac6fe53ec2a6da
+      internalID: 413498863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 557
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1611ae13cc1e44ca1491a429845d3f
+      internalID: -1711067518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 392
+        width: 131
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf57dbc469983b4498dfc6a035c6b8c
+      internalID: -1740744692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 225
+        width: 144
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eaea206ce39744286697cfbc73378f
+      internalID: 493778304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 360
+        width: 126
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6791df0706bea1d49846b8702c285385
+      internalID: 593777691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 562
+        width: 137
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf66eaaf6605345ba47c6540ea5372
+      internalID: -1606728787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 164
+        width: 133
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdace92240f069e40b0e6aae1ed6e7ad
+      internalID: -786117692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 551
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740d5c694cafeb4d8f10fbdefdeb1be
+      internalID: -1283937755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 353
+        width: 126
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c035d3675bffafd47bd2ad8d107db27b
+      internalID: 419194720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 147
+        width: 122
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf400cbdefe34409a50622acbf8fbf
+      internalID: 511304750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_12
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 540
+        width: 138
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd6913befe5cc4e9c7a148ea9dbd00
+      internalID: -1464367120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 335
+        width: 132
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f9752012401b45b0b9be30afc56db
+      internalID: 1201301789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 138
+        width: 127
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5b14e572d25c458a3a7c410967553
+      internalID: -1356688766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_15
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 162
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0deab8a759909c41a05971bf20dddbc
+      internalID: 297606943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 361
+        width: 118
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a580aff4c8bc46820b49498031986
+      internalID: 1372736456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Eye of Cthulhu & The Twins_17
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 551
+        width: 121
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d758a96dd729d33449e8b72fb4fd7c86
+      internalID: 1177695883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_0: 1053593771
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_1: -1170319200
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_10: 419194720
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_11: 511304750
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_12: -1464367120
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_13: 1201301789
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_14: -1356688766
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_15: 297606943
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_16: 1372736456
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_17: 1177695883
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_2: 413498863
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_3: -1711067518
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_4: -1740744692
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_5: 493778304
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_6: 593777691
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_7: -1606728787
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_8: -786117692
+      PC Computer - Terraria - Eye of Cthulhu & The Twins_9: -1283937755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

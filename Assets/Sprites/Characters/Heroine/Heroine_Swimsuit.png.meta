@@ -1,0 +1,3348 @@
+fileFormatVersion: 2
+guid: 76b16c0aa12d6b54db034cb1d2d785e7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d171fe3ec236544b207b40a3301c7f
+      internalID: -1697418997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60bcfaaba35ce543b78277925b81472
+      internalID: 358862119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285b671ee6ee5084e8d837bb71bff1e5
+      internalID: -580568331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569bbb14046592e428fa790d2e1620d8
+      internalID: -548039231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dab38ee7f84a6438b461234456a2e0
+      internalID: 335269198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce327226bb3ede34798898340ff9e5a3
+      internalID: -1499108884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9208e9d8cc849f446a84cf6c9eb18be2
+      internalID: 277589550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_07
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e645317ca351e48894ed29624c1bb5
+      internalID: -930014944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_08
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac9d962030c254f8d981065b08d83b
+      internalID: 1008835019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_09
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd76a27b504fb6a47bfa930834fff703
+      internalID: -37738090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c091fc902cd2734f9140838eeeabaea
+      internalID: -124060443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8650bfb8f2c1204eabbe1007ade4942
+      internalID: 414596784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbad7ceb16cf9441a3643999cddacce
+      internalID: -541896211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825ef7124f1685e46a40b4ec2fa8fd26
+      internalID: 510568080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8516a608e5503564d912cfffa6cc6788
+      internalID: 1522453821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99cf1436c6c2374c8c5e0542049feb0
+      internalID: 161098474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6a352590587d94f8773c3b5b2112fa
+      internalID: 1319277172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c85ca8923cab469f42df21aa8e5ff
+      internalID: 1965255644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aecf711ab0a174a91d74fe90a0bca7
+      internalID: 537916214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778c4b5d1ea3ca45be1086de4ff2431
+      internalID: 922755203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2579
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd34bf6a989f1245b5350d2f9ae75da
+      internalID: -1967544578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb557f5e467d6c4daf36b2ca44c312e
+      internalID: 979925153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fa793abc0712d489f8e193e9edd94b
+      internalID: 237028135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b9879862c88ce44bb6301c56965ac5
+      internalID: -208512485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c1401d4dc82584fb340ef607fd9c2e
+      internalID: 1649534862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5a7bad799f014f8da6c33f0d166eb
+      internalID: -91863329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad7d197b8e30344bac825d88d26969d
+      internalID: -1763000359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ad2f1c435bd542b2e9c97d6acb97a
+      internalID: 657010129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a97872d2fcf354fa0b472f3881858f
+      internalID: -1377418784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a4b1cae990d548812ba286461d43d
+      internalID: -293645229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd40fc2574c8646a796e26bc9536f9
+      internalID: -1825410520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f44b251043464b9b2c152d7966507
+      internalID: 1598050329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe9a61796634a94ca992ed36df31a45
+      internalID: -428188223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1244c9fdd3056246be5288b4a320803
+      internalID: -1881390159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98abc4f80f33cf843a48700500d8cc6f
+      internalID: 2069614714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cfc4340ddf3114c949b72071e182f8
+      internalID: 1528827875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a371beb25ec645b74876550f3822a
+      internalID: 488374916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ab69e3706f9641b9d9878915a1fb0
+      internalID: -1773390216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348bae5717454d439cd8f966be7fd3b
+      internalID: 1457802123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de01156f283e314d85cecc4c449c52a
+      internalID: 310512637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc116e61435dc8438faa35846994a3d
+      internalID: 2013402236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2528
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2dcf86afa8de0479ff144fc1e0a06c
+      internalID: -175225994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d401d8681b8a84b9b496929663cb73
+      internalID: 1213811107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aef2ad321bb1f4ba6c96caf5c4af08
+      internalID: -363266315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb912384e802551429551f014f13432f
+      internalID: 561235835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d67eb8ff60a9f4c95c7daff4c275ed
+      internalID: 1433902997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036b42421d6a9646917d46695c4b1f2
+      internalID: -1486516203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_47
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79a60102a6ddf94c93143c0c2542f0b
+      internalID: -695370335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347062c39380ad549b07a208c7b3b958
+      internalID: -1625696753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e26d5f9b199de4f91b00fbfcc1143a
+      internalID: -1920987420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae8087aa1ae70468e9966bc39f37f9
+      internalID: 600852652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc3678e863658e4ca954b00dbc9d1d8
+      internalID: -1372799975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_52
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057aac3a433cd724699095e276033206
+      internalID: -1969315779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd2ef9ff0a8534469d56cd0578fe7a9
+      internalID: -1526232729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_54
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f2f4f6ca1cefa4e8715ffcf0811f2f
+      internalID: -855600693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Idle_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2477
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8ffa00e51c31741a76ad5585155cd2
+      internalID: -2039617517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_IdleToRun_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2412
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b46b0e079e71c409ac99df17c653ea
+      internalID: -1488648394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_IdleToRun_01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2412
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec662c1ac252ecc48888dc38fd05e3a6
+      internalID: -1986103411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Run_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2347
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3743f8842756543ae803cea18a5903
+      internalID: 1824583635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Run_01
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2347
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45437c6f6e873164695deb0484bd77ca
+      internalID: -1100425740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Run_02
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2347
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb93d58f746a604b8c4eafec9638e6e
+      internalID: 1098682457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Run_03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2347
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ea6868234256845bbc4615e9c5f331
+      internalID: 943472700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Run_04
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2347
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de8b6ff92c833d458235195db6f4992
+      internalID: -683835622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Run_05
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2347
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb86a08ae7e444597ac7b4defdec8b
+      internalID: 1325674551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Run_06
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2347
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0809269ad6c9da44db70385df5b89550
+      internalID: -100809221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Run_07
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2347
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c452a857a73b75459f38026c5906e94
+      internalID: -301130355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_RunToIdle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa6c3a1b8077ff4799a74b232dd6a35
+      internalID: 1450475301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_RunToIdle_01
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18edb0446194b8428d344b8ed609499
+      internalID: -1717063470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_RunToIdle_02
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bbe222c9e2f8a429240e3814bd696f
+      internalID: 1444749160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_RunToIdle_03
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67789ef9eb24c498a3278dd3c55963
+      internalID: 395062505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Crouch_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2220
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c0200cb864f394086cb3a20d45e387
+      internalID: 1400111613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Crouch_01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2220
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62678359f3ea833449503e8264404115
+      internalID: -565834957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Crouch_02
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2220
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20473ac0db00afc4dadc48e460a466fa
+      internalID: 1469972312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Crouch_03
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2220
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d6a2a57b4c2f428f3eeeb6891fc5e
+      internalID: 689320493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e01e18a5b171e849a43db71afaae7a0
+      internalID: 1880004100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_CrouchToIdle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2104
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa93a090204404ab1ef50347dbdd07
+      internalID: 619204313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Roll_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2043
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff00691c16ae1438b9da3f462e13ee
+      internalID: 1878994675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Roll_01
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2043
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81314d17bbb00184dbb89eafbb67b9ad
+      internalID: -2145144471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Roll_02
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2043
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19694c43fa327144597bc4f7dc52c6f9
+      internalID: -319521634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Roll_03
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2043
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79da615ceecdaf94e8765c4d6ef8963f
+      internalID: 630137253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Roll_04
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2043
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0447fa65dade1d0408398494e981aaf1
+      internalID: -457785493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Roll_05
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2043
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8650eb9406c3b0d4093ccbd39f7dc463
+      internalID: -1082896063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Roll_06
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2043
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a1824fb30c4be4d8acf980da6cbcb5
+      internalID: 2010765908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Roll_07
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2043
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b6fbbfa77b3747b40eb95ab45d976
+      internalID: 1635368273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Roll_08
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2043
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68a56f2a3d93c4f97664fedff17ebd
+      internalID: 1726831051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Jump_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1978
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e49544e7ea3fef469a5e81d13ff6fc5
+      internalID: -453033137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1978
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987e945da3c21914a9a0dc9a11e9b209
+      internalID: 781151188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Jump_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1978
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebad97c66544a541972f5219bed94d0
+      internalID: -100900165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Jump_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1978
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568e3a8b91d0ba647a4479ca2f4e9646
+      internalID: 1135750529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Jump_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1978
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf0110085212e49ba7a35bf8867642
+      internalID: 551813152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Falling_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c21b37bc0aaf44b9b86f3e8424c824
+      internalID: 1371147612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Falling_01
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1908
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612fa56e3e72b2d49a9b12ab557a6411
+      internalID: -1708872347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Falling_02
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1908
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907bee0d13fcf414492a465f541326c1
+      internalID: -659382875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Landing_00
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1845
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd185763a0e6d5e41aa7259a3395b214
+      internalID: -1900712016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Landing_01
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1848
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bb5447b44bdff4da9d4ada1c48c86b
+      internalID: 836296227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Landing_02
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1847
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7612748afc84a0644858a95db7e66202
+      internalID: 936927387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1780
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35923868a71a98d49832e618a8b81222
+      internalID: 210199914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1780
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e81adb3f5028c44d8ded4712df97ad2
+      internalID: 651636616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f400b393013d349a0e3df384a67080
+      internalID: -1590905695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_03
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ca27ecce36d543893230d2b5a0aa8
+      internalID: -222100006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_04
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6022ade772c1243bd456d8f1cde0e7
+      internalID: -579936002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_05
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452be26c6fb560419bebd0a3edd4f39
+      internalID: 1160385792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_06
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3395c1702f715fc4391daaf736aa079b
+      internalID: -1072440983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_07
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380139d59b0f71440bb072cccd4124db
+      internalID: -1817990686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_08
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1780
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7899c12aad66a40ac50e6646d38d71
+      internalID: -956950797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_09
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1780
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93705df477426564883d97f77ec3b7d2
+      internalID: 1865815069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1780
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d1d900067d3ed408bf92304155bdcb
+      internalID: 60898698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7be0eb10a8e7ec42af32ca4c30a41ed
+      internalID: -491853759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3553cad1eedcc44fbdb336d5d3c7f17
+      internalID: 1417509680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ada05b2a1c6d64e971dfc2d588bb0c
+      internalID: -537469241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1780
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc636c6fb05f9e84f9ce30934eed79d7
+      internalID: -711227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b5feb4261a8794da81e1162573c1a4
+      internalID: -978571660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_01
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a97ff0640cf10a4aba0cd903e3371d1
+      internalID: 1114946369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_02
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de621dbe24b4c7845920a2ad966f8688
+      internalID: -1073026053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bdf7edf325d0644ad439d9e7928988
+      internalID: 1141848614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_03
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8530417a2bfbf43948eb700dcab4c4
+      internalID: 1908904548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_04
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbc164faadd2174bbde05d18ed1091a
+      internalID: 390134397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_05
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b669d2dc23694fa92b22c86a11b9c
+      internalID: -802788014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_06
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56deb0cadff6b284a89ba339773c3910
+      internalID: 1115770009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_07
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591a190a8a41994b8bac491ddb928c7
+      internalID: 2060486927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Shoot_08
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 921
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146320afd4fb8d94bbd4cc1ccc41a9b2
+      internalID: 1393373619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast1_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901ff03f9cdcdba41b59eaeed38c8ac1
+      internalID: -72374748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast1_01
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 734
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f1aa0cb9c811446b9c5f00ee0f8676
+      internalID: 1034814391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast1_02
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 734
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72342ba52fc8e0f4b84fdd36589865cb
+      internalID: -2039842461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast1_03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 734
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b07096bdbdd4f43b03f5cf7e9b4ba9
+      internalID: 48556323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast1_04
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 734
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85c374117db16849950129272931986
+      internalID: 1838121546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast1_05
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 734
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f5f7072d0ca024f9bb1f994eeaa4a1
+      internalID: -360077273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast1_06
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 734
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296af842121e9348914d8490c5a2374
+      internalID: 787347216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast1_07
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 734
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd49ff8b8e443d41965334a2bab856d
+      internalID: 1451673200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast2_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2969f5dddf0a6394393c96c1cbc78de4
+      internalID: -453824796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast2_01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 366
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e9c47e73182c14aa83c7be5aad9fd6
+      internalID: 44796491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast2_02
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 366
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf23c966d630834cb8e0246d922d861
+      internalID: 1901436107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast2_03
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 366
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad6b065ce6aa0a479d01ea588dfc1c9
+      internalID: -1289839697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast2_04
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 366
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e31cd7e9f67de8488a196eef4e17387
+      internalID: -371830171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast2_05
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 366
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94a958955869e4f8e007add0546156
+      internalID: 1261247763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Cast2_06
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 366
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cac184d0937ea45aa72a1bab43517e
+      internalID: 401842512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Block_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e713ba3447554834280a399a01f490e8
+      internalID: -1266159016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Hurt_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b2d56f397edf04682847879627ee8e
+      internalID: -1210706241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Dead_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57200136f533d554f8cce4a4b52e8d62
+      internalID: 2112537054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Dead_01
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ff0e0870ee0fe4ba3f0253366fae8f
+      internalID: -865194036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Dead_02
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a99c4d26cc93364b9fc8697707ae834
+      internalID: -123587559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Dead_03
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221aeeb88042e8341bdacf1623dd7851
+      internalID: -1657199411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Dead_04
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1923f7b354c7f343915342c6021cbed
+      internalID: -1051579520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Dead_05
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2faac70bfe0f854aac30f008240e8f7
+      internalID: -1911388024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Dead_06
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff87789c61afacc438e2f2a011bb5562
+      internalID: 1651985579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Dead_07
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150fe91486daa14fb952a0104294efb
+      internalID: 1063912279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroine_Swimsuit_Dead_08
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c8ab8cdc3e0348a5aee54b87e9e57
+      internalID: -1130840157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Heroine_Swimsuit_0: 1880004100
+      Heroine_Swimsuit_Attack_00: 210199914
+      Heroine_Swimsuit_Attack_01: 651636616
+      Heroine_Swimsuit_Attack_02: -1590905695
+      Heroine_Swimsuit_Attack_03: -222100006
+      Heroine_Swimsuit_Attack_04: -579936002
+      Heroine_Swimsuit_Attack_05: 1160385792
+      Heroine_Swimsuit_Attack_06: -1072440983
+      Heroine_Swimsuit_Attack_07: -1817990686
+      Heroine_Swimsuit_Attack_08: -956950797
+      Heroine_Swimsuit_Attack_09: 1865815069
+      Heroine_Swimsuit_Attack_10: 60898698
+      Heroine_Swimsuit_Attack_11: -491853759
+      Heroine_Swimsuit_Attack_12: 1417509680
+      Heroine_Swimsuit_Attack_13: -537469241
+      Heroine_Swimsuit_Attack_14: -711227
+      Heroine_Swimsuit_Block_00: -1266159016
+      Heroine_Swimsuit_Cast1_00: -72374748
+      Heroine_Swimsuit_Cast1_01: 1034814391
+      Heroine_Swimsuit_Cast1_02: -2039842461
+      Heroine_Swimsuit_Cast1_03: 48556323
+      Heroine_Swimsuit_Cast1_04: 1838121546
+      Heroine_Swimsuit_Cast1_05: -360077273
+      Heroine_Swimsuit_Cast1_06: 787347216
+      Heroine_Swimsuit_Cast1_07: 1451673200
+      Heroine_Swimsuit_Cast2_00: -453824796
+      Heroine_Swimsuit_Cast2_01: 44796491
+      Heroine_Swimsuit_Cast2_02: 1901436107
+      Heroine_Swimsuit_Cast2_03: -1289839697
+      Heroine_Swimsuit_Cast2_04: -371830171
+      Heroine_Swimsuit_Cast2_05: 1261247763
+      Heroine_Swimsuit_Cast2_06: 401842512
+      Heroine_Swimsuit_CrouchToIdle_00: 619204313
+      Heroine_Swimsuit_Crouch_00: 1400111613
+      Heroine_Swimsuit_Crouch_01: -565834957
+      Heroine_Swimsuit_Crouch_02: 1469972312
+      Heroine_Swimsuit_Crouch_03: 689320493
+      Heroine_Swimsuit_Dead_00: 2112537054
+      Heroine_Swimsuit_Dead_01: -865194036
+      Heroine_Swimsuit_Dead_02: -123587559
+      Heroine_Swimsuit_Dead_03: -1657199411
+      Heroine_Swimsuit_Dead_04: -1051579520
+      Heroine_Swimsuit_Dead_05: -1911388024
+      Heroine_Swimsuit_Dead_06: 1651985579
+      Heroine_Swimsuit_Dead_07: 1063912279
+      Heroine_Swimsuit_Dead_08: -1130840157
+      Heroine_Swimsuit_Falling_00: 1371147612
+      Heroine_Swimsuit_Falling_01: -1708872347
+      Heroine_Swimsuit_Falling_02: -659382875
+      Heroine_Swimsuit_Hurt_00: -1210706241
+      Heroine_Swimsuit_IdleToRun_00: -1488648394
+      Heroine_Swimsuit_IdleToRun_01: -1986103411
+      Heroine_Swimsuit_Idle_00: -1697418997
+      Heroine_Swimsuit_Idle_01: 358862119
+      Heroine_Swimsuit_Idle_02: -580568331
+      Heroine_Swimsuit_Idle_03: -548039231
+      Heroine_Swimsuit_Idle_04: 335269198
+      Heroine_Swimsuit_Idle_05: -1499108884
+      Heroine_Swimsuit_Idle_06: 277589550
+      Heroine_Swimsuit_Idle_07: -930014944
+      Heroine_Swimsuit_Idle_08: 1008835019
+      Heroine_Swimsuit_Idle_09: -37738090
+      Heroine_Swimsuit_Idle_10: -124060443
+      Heroine_Swimsuit_Idle_11: 414596784
+      Heroine_Swimsuit_Idle_12: -541896211
+      Heroine_Swimsuit_Idle_13: 510568080
+      Heroine_Swimsuit_Idle_14: 1522453821
+      Heroine_Swimsuit_Idle_15: 161098474
+      Heroine_Swimsuit_Idle_16: 1319277172
+      Heroine_Swimsuit_Idle_17: 1965255644
+      Heroine_Swimsuit_Idle_18: 537916214
+      Heroine_Swimsuit_Idle_19: 922755203
+      Heroine_Swimsuit_Idle_20: -1967544578
+      Heroine_Swimsuit_Idle_21: 979925153
+      Heroine_Swimsuit_Idle_22: 237028135
+      Heroine_Swimsuit_Idle_23: -208512485
+      Heroine_Swimsuit_Idle_24: 1649534862
+      Heroine_Swimsuit_Idle_25: -91863329
+      Heroine_Swimsuit_Idle_26: -1763000359
+      Heroine_Swimsuit_Idle_27: 657010129
+      Heroine_Swimsuit_Idle_28: -1377418784
+      Heroine_Swimsuit_Idle_29: -293645229
+      Heroine_Swimsuit_Idle_30: -1825410520
+      Heroine_Swimsuit_Idle_31: 1598050329
+      Heroine_Swimsuit_Idle_32: -428188223
+      Heroine_Swimsuit_Idle_33: -1881390159
+      Heroine_Swimsuit_Idle_34: 2069614714
+      Heroine_Swimsuit_Idle_35: 1528827875
+      Heroine_Swimsuit_Idle_36: 488374916
+      Heroine_Swimsuit_Idle_37: -1773390216
+      Heroine_Swimsuit_Idle_38: 1457802123
+      Heroine_Swimsuit_Idle_39: 310512637
+      Heroine_Swimsuit_Idle_40: 2013402236
+      Heroine_Swimsuit_Idle_41: -175225994
+      Heroine_Swimsuit_Idle_42: 1213811107
+      Heroine_Swimsuit_Idle_43: -363266315
+      Heroine_Swimsuit_Idle_44: 561235835
+      Heroine_Swimsuit_Idle_45: 1433902997
+      Heroine_Swimsuit_Idle_46: -1486516203
+      Heroine_Swimsuit_Idle_47: -695370335
+      Heroine_Swimsuit_Idle_48: -1625696753
+      Heroine_Swimsuit_Idle_49: -1920987420
+      Heroine_Swimsuit_Idle_50: 600852652
+      Heroine_Swimsuit_Idle_51: -1372799975
+      Heroine_Swimsuit_Idle_52: -1969315779
+      Heroine_Swimsuit_Idle_53: -1526232729
+      Heroine_Swimsuit_Idle_54: -855600693
+      Heroine_Swimsuit_Idle_55: -2039617517
+      Heroine_Swimsuit_Jump_00: -453033137
+      Heroine_Swimsuit_Jump_01: 781151188
+      Heroine_Swimsuit_Jump_02: -100900165
+      Heroine_Swimsuit_Jump_03: 1135750529
+      Heroine_Swimsuit_Jump_04: 551813152
+      Heroine_Swimsuit_Landing_00: -1900712016
+      Heroine_Swimsuit_Landing_01: 836296227
+      Heroine_Swimsuit_Landing_02: 936927387
+      Heroine_Swimsuit_Roll_00: 1878994675
+      Heroine_Swimsuit_Roll_01: -2145144471
+      Heroine_Swimsuit_Roll_02: -319521634
+      Heroine_Swimsuit_Roll_03: 630137253
+      Heroine_Swimsuit_Roll_04: -457785493
+      Heroine_Swimsuit_Roll_05: -1082896063
+      Heroine_Swimsuit_Roll_06: 2010765908
+      Heroine_Swimsuit_Roll_07: 1635368273
+      Heroine_Swimsuit_Roll_08: 1726831051
+      Heroine_Swimsuit_RunToIdle_00: 1450475301
+      Heroine_Swimsuit_RunToIdle_01: -1717063470
+      Heroine_Swimsuit_RunToIdle_02: 1444749160
+      Heroine_Swimsuit_RunToIdle_03: 395062505
+      Heroine_Swimsuit_Run_00: 1824583635
+      Heroine_Swimsuit_Run_01: -1100425740
+      Heroine_Swimsuit_Run_02: 1098682457
+      Heroine_Swimsuit_Run_03: 943472700
+      Heroine_Swimsuit_Run_04: -683835622
+      Heroine_Swimsuit_Run_05: 1325674551
+      Heroine_Swimsuit_Run_06: -100809221
+      Heroine_Swimsuit_Run_07: -301130355
+      Heroine_Swimsuit_Shoot_0: 1141848614
+      Heroine_Swimsuit_Shoot_00: -978571660
+      Heroine_Swimsuit_Shoot_01: 1114946369
+      Heroine_Swimsuit_Shoot_02: -1073026053
+      Heroine_Swimsuit_Shoot_03: 1908904548
+      Heroine_Swimsuit_Shoot_04: 390134397
+      Heroine_Swimsuit_Shoot_05: -802788014
+      Heroine_Swimsuit_Shoot_06: 1115770009
+      Heroine_Swimsuit_Shoot_07: 2060486927
+      Heroine_Swimsuit_Shoot_08: 1393373619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
